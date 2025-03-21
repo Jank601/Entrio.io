@@ -1,0 +1,501 @@
+company_name,status,permalink,homepage_url,market,country_code,state_code,region,city,company_founding_date,founded_year,founded_month,founded_quarter,funding_rounds,funding_total_usd,first_funding_round_at,last_funding_round_at
+Experifun,operating,/organization/experifun,http://experifun.com,Education,IND,,Bangalore,Bangalore,2012-01-01,2012,2012-01,2012-Q1,2,335000,2013-11-27,2014-09-19
+,,,,,,,,,,,,,,,,
+LoopPay,operating,/organization/looppay,http://www.looppay.com,Mobile,USA,MA,Boston,Woburn,2013-01-01,2013,2013-01,2013-Q1,3,13000000,2013-11-03,2014-07-24
+Quisk,operating,/organization/quisk,http://quisk.co,Finance,USA,CA,SF Bay Area,Sunnyvale,,,,,1,6250000,2014-09-02,2014-09-02
+Todaytickets,operating,/organization/todaytickets,http://www.todaytickets.de,Games,DEU,,Berlin,Berlin,2013-04-01,2013,2013-04,2013-Q2,1,0,2013-04-01,2013-04-01
+Fooboo,operating,/organization/fooboo,http://www.fooboo.de/,Apps,DEU,,Munich,München,,,,,1,0,2014-10-16,2014-10-16
+Get Me Listed,operating,/organization/get-me-listed,http://www.getmelisted.net,Local Search,CAN,QC,Montreal,Montréal,,,,,1,0,2012-04-27,2012-04-27
+Nerdies,operating,/organization/nerdies,http://www.nerdies.me/,Education,USA,AR,Fayetteville,Fayetteville,2013-10-01,2013,2013-10,2013-Q4,1,21000,2013-10-22,2013-10-22
+Micron Technology,operating,/organization/micron-technology,http://www.micron.com,Semiconductors,USA,ID,Boise,Boise,1978-01-01,1978,1978-01,1978-Q1,4,50410400,2006-10-25,2013-09-01
+hotelsmap.com,closed,/organization/hotelsmap-com,http://www.hotelsmap.com,Travel,ARE,,Dubai,Dubai,2010-06-20,2010,2010-06,2010-Q2,1,5000,2009-12-10,2009-12-10
+Zidisha,operating,/organization/zidisha,http://www.zidisha.org,Curated Web,USA,VA,"Washington, D.C.",Sterling,2009-10-15,2009,2009-10,2009-Q4,1,0,2014-01-01,2014-01-01
+Musiwave,,/organization/musiwave,http://www.musiwave.com,Mobile,,,,,,,,,1,3904597,2002-09-12,2002-09-12
+2Duche,operating,/organization/2duche,http://www.2duche.com,E-Commerce,CHN,,Shanghai,Shanghai,,,,,2,0,2006-06-01,2010-08-01
+ShadesCases inc.,operating,/organization/shadescases-inc,http://www.shadescases.com,Hardware + Software,USA,CO,Denver,Centennial,2007-01-01,2007,2007-01,2007-Q1,2,110000,2007-06-01,2007-06-01
+HTG Molecular Diagnostics,operating,/organization/htg-molecular-diagnostics,http://www.htgmolecular.com,Biotechnology,USA,AZ,Tucson,Tucson,1997-01-01,1997,1997-01,1997-Q1,5,47232377,2011-02-24,2014-08-29
+UpTo,operating,/organization/upto,http://upto.com,Events,USA,MI,Detroit,Detroit,2011-01-01,2011,2011-01,2011-Q1,2,2924999,2011-10-01,2013-06-13
+TonZof,operating,/organization/tonzof,http://tonzof.com,E-Commerce,USA,CO,Denver,Lakewood,,,,,1,4707228,2014-02-21,2014-02-21
+Go Kin Packs,operating,/organization/go-kin-packs,http://www.gokinpacks.com/,Electronics,CAN,ON,Thunder Bay,Thunder Bay,2013-08-01,2013,2013-08,2013-Q3,1,15000,2014-01-01,2014-01-01
+,,,,,,,,,,,,,,,,
+B-Side Entertainment,closed,/organization/b-side,http://www.bside.com,Games,USA,NY,New York City,New York,2005-04-07,2005,2005-04,2005-Q2,2,7350000,2006-10-11,2008-11-14
+Invivodata,acquired,/organization/invivodata,,Health and Wellness,USA,PA,Pittsburgh,Pittsburgh,1987-01-01,1987,1987-01,1987-Q1,2,13098401,2006-01-01,2009-04-29
+,,,,,,,,,,,,,,,,
+sim4tec,operating,/organization/sim4tec,http://www.sim4tec.com,Software,DEU,,Dresden,Dresden,,,,,1,0,2008-02-23,2008-02-23
+EcoIntense,operating,/organization/ecointense,http://www.ecointense.de,Software,DEU,,Berlin,Berlin,,,,,1,909000,2008-02-01,2008-02-01
+YOYO Holdings,operating,/organization/yoyo-holdings,http://yoyo-holdings.com,Software,SGP,,Singapore,Singapore,2012-10-10,2012,2012-10,2012-Q4,1,1300000,2014-05-21,2014-05-21
+e-SENS,operating,/organization/e-sens,http://e-sens.com,Semiconductors,USA,UT,Salt Lake City,Salt Lake City,,,,,1,1060000,2014-01-09,2014-01-09
+1Life Healthcare,operating,/organization/1life-healthcare,http://www.1life.com,Health and Wellness,USA,CA,SF Bay Area,San Francisco,2002-01-01,2002,2002-01,2002-Q1,1,30000000,2013-03-21,2013-03-21
+"CUI Global, Inc.",operating,/organization/cui-global-inc,http://cuiglobal.com,Semiconductors,USA,OR,"Portland, Oregon",Tualatin,,,,,1,8000000,2010-08-31,2010-08-31
+FastPay,operating,/organization/fast-pay-partners,http://www.gofastpay.com,Finance,USA,CA,Los Angeles,Beverly Hills,2009-01-01,2009,2009-01,2009-Q1,4,50000000,2011-02-10,2014-11-20
+Mango Bay Vacation Rentals,operating,/organization/mango-bay-vacation-rentals,http://www.mangobayvacation.com/,Real Estate,USA,FL,Sarasota - Bradenton,Sarasota,2014-10-23,2014,2014-10,2014-Q4,1,0,2014-09-25,2014-09-25
+Current Communications Group,acquired,/organization/current-communications-group,http://www.currentgroup.com,Software,USA,MD,"Washington, D.C.",Germantown,,,,,1,100000000,2005-07-06,2005-07-06
+Verimatrix,operating,/organization/verimatrix,http://verimatrix.com,Software,USA,CA,San Diego,San Diego,1999-01-01,1999,1999-01,1999-Q1,6,46799996,2000-01-01,2011-04-12
+Offbeat Guides,closed,/organization/offbeat-guides,http://www.offbeatguides.com,Travel,USA,CA,SF Bay Area,San Francisco,2007-01-01,2007,2007-01,2007-Q1,1,0,2008-02-01,2008-02-01
+Asuragen,operating,/organization/asuragen,http://www.asuragen.com,Biotechnology,USA,TX,Austin,Austin,2006-01-01,2006,2006-01,2006-Q1,4,80000000,2006-06-01,2013-03-20
+Linea,closed,/organization/linea,http://getlinea.com,Photography,USA,WA,Seattle,Seattle,2011-04-01,2011,2011-04,2011-Q2,1,4000000,2013-05-31,2013-05-31
+Enroute Systems,operating,/organization/enroute-systems,http://www.enroutecorp.com,Software,USA,WA,Seattle,Bellevue,2008-01-01,2008,2008-01,2008-Q1,4,2642814,2009-11-13,2013-01-18
+Chaperone Technologies,closed,/organization/chaperone-technologies,http://www.chaperonetechnologies.com,Biotechnology,USA,PA,Philadelphia,Radnor,,,,,1,100000,2006-03-06,2006-03-06
+Across The Universe,operating,/organization/across-the-universe,,Games,,,,,,,,,1,12500,2014-01-01,2014-01-01
+Otelic,operating,/organization/otelic,http://www.otelic.com/,,USA,CA,SF Bay Area,San Francisco,,,,,1,0,2014-03-31,2014-03-31
+Scimetrika,operating,/organization/scimetrika,http://scimetrika.com,Health and Wellness,USA,NC,Raleigh,Durham,2001-01-01,2001,2001-01,2001-Q1,1,40000000,2013-09-30,2013-09-30
+TopCat Research,operating,/organization/topcat-research,http://www.topcat-research.com,Biotechnology,GBR,,Gwynedd,,,,,,1,80606,2011-07-14,2011-07-14
+,,,,,,,,,,,,,,,,
+BoardEvals,operating,/organization/boardevals,http://www.boardevals.com,Nonprofits,USA,CA,Sacramento,El Dorado Hills,2008-08-19,2008,2008-08,2008-Q3,1,100000,2008-08-01,2008-08-01
+AntCor,acquired,/organization/antcor,http://web.antcor.com,Software,GRC,,Maroúli,Maroúli,,,,,1,1280000,2006-06-01,2006-06-01
+Jugo,operating,/organization/jugo,http://www.playjugo.com,Entertainment,ESP,,Valencia,Valencia,2012-01-01,2012,2012-01,2012-Q1,1,195780,2013-04-14,2013-04-14
+LAM Aviation,operating,/organization/lam-aviation,http://lamaviation.com,Manufacturing,USA,CA,SF Bay Area,Los Altos Hills,,,,,3,1960001,2009-08-28,2014-07-09
+Accedian Networks,operating,/organization/accedian-networks,http://www.accedian.com,Mobile,CAN,QC,Montreal,Montréal,2004-01-01,2004,2004-01,2004-Q1,3,31040000,2006-03-09,2010-08-04
+CREATIV,operating,/organization/creativ,http://www.creativ.com,Social Network Media,USA,AZ,Phoenix,Scottsdale,2010-04-10,2010,2010-04,2010-Q2,5,8750000,2011-04-05,2014-01-01
+Takeda Cambridge,operating,/organization/takeda-cambridge,http://www.takedacam.com/,Biotechnology,GBR,,London,Cambridge,,,,,2,22340000,2005-01-07,2006-07-07
+,,,,,,,,,,,,,,,,
+Elance-oDesk,operating,/organization/elance-odesk,http://www.elance-odesk.com/,Virtual Workforces,USA,CA,SF Bay Area,Mountain View,2014-01-01,2014,2014-01,2014-Q1,1,30000000,2014-11-25,2014-11-25
+,,,,,,,,,,,,,,,,
+Linktone,operating,/organization/linktone,http://www.linktone.com,Mobile,CHN,,Beijing,Beijing,1999-01-01,1999,1999-01,1999-Q1,1,0,2001-04-01,2001-04-01
+OneSchool,operating,/organization/oneschool,http://oneschool.com,Education,USA,CA,SF Bay Area,Mountain View,,,,,1,750000,2012-01-25,2012-01-25
+Hear It First,operating,/organization/hear-it-first,,,USA,TN,Nashville,Nashville,,,,,1,320000,2013-03-01,2013-03-01
+Kik,operating,/organization/kik-interactive,http://kik.com/,Messaging,CAN,ON,Toronto,Waterloo,2009-01-01,2009,2009-01,2009-Q1,3,65800000,2011-03-07,2014-11-19
+Planday,operating,/organization/planday,http://www.planday.com,Software,DNK,,Copenhagen,Copenhagen,2013-01-01,2013,2013-01,2013-Q1,1,3750000,2014-05-06,2014-05-06
+,,,,,,,,,,,,,,,,
+Snow & Alps,operating,/organization/snow-alps,http://snowbon.com,Curated Web,DEU,,Munich,Munich,2012-09-01,2012,2012-09,2012-Q3,1,1286600,2014-01-07,2014-01-07
+FINXI,operating,/organization/finxi,http://finxi.com.br,Software,BRA,,Rio de Janeiro,Rio De Janeiro,2010-03-20,2010,2010-03,2010-Q1,1,25000,2012-07-01,2012-07-01
+Celldex Therapeutics,operating,/organization/celldex-therapeutics,http://celldex.com,Biotechnology,USA,NJ,NJ - Other,Hampton,,,,,1,2000000,2014-10-24,2014-10-24
+Hollywood Vision Center,operating,/organization/hollywood-vision-center,http://www.hollywoodvision.com/vision-therapy.html,Medical,USA,CA,Los Angeles,Los Angeles,1919-06-12,1919,1919-06,1919-Q2,1,700,2014-08-06,2014-08-06
+Medical Connections,operating,/organization/medical-connections,http://medicalconnections.com,Biotechnology,USA,FL,Palm Beaches,Boca Raton,2002-01-01,2002,2002-01,2002-Q1,1,51050,2010-08-26,2010-08-26
+Nuvola,,/organization/nuvola,http://www.getnuvola.com,Consulting,USA,CA,SF Bay Area,Mountain View,2013-01-01,2013,2013-01,2013-Q1,1,330000,2014-02-03,2014-02-03
+D.light Design,operating,/organization/d-light-design,http://www.dlightdesign.com,Clean Technology,CYM,,Cayman Islands,Grand Cayman,2007-01-01,2007,2007-01,2007-Q1,3,22500000,2008-11-10,2014-02-25
+Thename.is,operating,/organization/thename-is,http://thename.is,,,,,,2012-01-01,2012,2012-01,2012-Q1,1,20203,2013-01-27,2013-01-27
+Gaston Labs,closed,/organization/gaston-labs,http://GastonLabs.com,Photography,USA,CA,SF Bay Area,Palo Alto,2012-03-21,2012,2012-03,2012-Q1,1,100000,2012-03-01,2012-03-01
+Orckit Communications,operating,/organization/orckit-communications,http://www.orckit.com,Networking,ISR,,Tel Aviv,Tel Aviv,1990-01-01,1990,1990-01,1990-Q1,1,5000000,2013-04-02,2013-04-02
+Web Design Giant Inc.,operating,/organization/web-design-giant-inc,http://www.webdesigngiant.com,Web Development,USA,MA,Worcester,Lunenburg,2010-03-10,2010,2010-03,2010-Q1,1,50000,2012-09-17,2012-09-17
+RelayRides,operating,/organization/relayrides,https://relayrides.com,Transportation,USA,CA,SF Bay Area,San Francisco,2008-11-01,2008,2008-11,2008-Q4,11,62500000,2009-11-01,2014-08-12
+EG Technology,operating,/organization/eg-technology,,,USA,GA,Atlanta,Atlanta,,,,,1,200000,2009-07-01,2009-07-01
+"Madison Reed, Inc.",operating,/organization/madison-reed-inc,http://www.madison-reed.com,Beauty,USA,CA,SF Bay Area,San Francisco,2013-01-01,2013,2013-01,2013-Q1,2,16000000,2013-04-29,2014-01-28
+Enliven Marketing Technologies,operating,/organization/enliven-marketing-technologies,http://www.enliven.com,Advertising,USA,NY,New York City,New York,1987-01-01,1987,1987-01,1987-Q1,2,12310000,2005-07-26,2007-10-18
+QBE,operating,/organization/qbe,http://qbe.net,Consulting,USA,VA,VA - Other,Haymarket,2008-01-01,2008,2008-01,2008-Q1,1,528124,2010-12-21,2010-12-21
+,,,,,,,,,,,,,,,,
+Zipline Medical,operating,/organization/zipline-medical,http://www.ziplinemedical.com,Health Care,USA,CA,SF Bay Area,Campbell,2007-01-01,2007,2007-01,2007-Q1,4,16000000,2009-12-21,2014-10-20
+Novast Laboratories,operating,/organization/novast-laboratories,,Biotechnology,CHN,,CHN - Other,Nantong,,,,,1,20000000,2012-06-12,2012-06-12
+Extreme Wireless Communication,operating,/organization/extreme-wireless-communication,http://www.extreme-wireless.com,Networking,USA,IL,Chicago,Round Lake,2012-08-20,2012,2012-08,2012-Q3,1,0,2012-09-24,2012-09-24
+ChipSensors,acquired,/organization/chipsensors,http://www.chipsensors.com,Semiconductors,IRL,,Limerick,Limerick,2007-01-01,2007,2007-01,2007-Q1,2,4140000,2007-08-01,2010-04-20
+Prolify,closed,/organization/prolify,http://www.prolify.com,Messaging,ISR,,Netanya,Netanya,2002-01-01,2002,2002-01,2002-Q1,1,4000000,2005-02-15,2005-02-15
+,,,,,,,,,,,,,,,,
+Volantis Systems,acquired,/organization/volantis,http://www.volantis.com,Software,GBR,,London,Guildford,2000-01-01,2000,2000-01,2000-Q1,1,7500000,2005-09-13,2005-09-13
+,,,,,,,,,,,,,,,,
+TraveDoc,operating,/organization/travedoc,http://travedoc.com,Mobile,USA,MA,Boston,Boston,2012-11-19,2012,2012-11,2012-Q4,2,100000,2012-11-12,2013-04-29
+,,,,,,,,,,,,,,,,
+Winkapp,operating,/organization/winkapp,http://winkapp.co,Telecommunications,ISR,,Tel Aviv,Tel Aviv,2013-01-01,2013,2013-01,2013-Q1,1,0,2013-05-24,2013-05-24
+Best Bid,operating,/organization/best-bid-for-you,,Low Bid Auctions,GBR,,London,London,2010-07-01,2010,2010-07,2010-Q3,1,0,2010-10-01,2010-10-01
+Mob Science,acquired,/organization/mob-science,http://www.MobScience.com,Games,USA,CA,San Diego,Carlsbad,2008-01-01,2008,2008-01,2008-Q1,2,1500000,2012-02-23,2012-03-27
+,,,,,,,,,,,,,,,,
+PowerPractical,operating,/organization/powerpractical,http://www.powerpractical.com/,E-Commerce,USA,UT,Salt Lake City,Salt Lake City,,,,,2,0,2013-01-25,2013-01-31
+Project Dance,operating,/organization/project-dance-llc,,Education,USA,,USA - Other,,2009-08-24,2009,2009-08,2009-Q3,1,0,2009-08-24,2009-08-24
+CytoLogic,operating,/organization/cytologic,http://www.cytologic.com,Health Care,USA,CO,Denver,Boulder,1998-01-01,1998,1998-01,1998-Q1,2,978637,2010-12-13,2012-06-15
+,,,,,,,,,,,,,,,,
+Knowthena,operating,/organization/knowthena,http://knowthena.com,Curated Web,USA,KY,KY - Other,Owensboro,2011-01-01,2011,2011-01,2011-Q1,1,150000,2013-01-01,2013-01-01
+Alter-G,operating,/organization/alter-g,http://www.alter-g.com,Health Care,USA,CA,SF Bay Area,Fremont,2005-01-01,2005,2005-01,2005-Q1,4,23000000,2007-04-09,2012-08-13
+Avosoft,operating,/organization/avosoft,http://www.avopress.com,Finance,USA,OH,Cincinnati,Cincinnati,2010-04-01,2010,2010-04,2010-Q2,1,100000,2010-01-05,2010-01-05
+GET Holding NV,closed,/organization/get-holding-nv,http://www.emerce.nl/nieuws.jsp?id=3001552,Enterprise Software,NLD,,NLD - Other,Zaandijk,2007-03-01,2007,2007-03,2007-Q1,1,5666100,2009-01-06,2009-01-06
+Momspot,operating,/organization/momspot,http://www.momspot.com,Digital Media,USA,NY,New York City,New York,,,,,1,165000,2013-07-15,2013-07-15
+Drone.io,operating,/organization/drone-io,http://drone.io,Software,USA,CA,SF Bay Area,San Francisco,2012-10-02,2012,2012-10,2012-Q4,1,28000,2013-07-10,2013-07-10
+Roundscapes,operating,/organization/roundscapes,http://www.the42.com,Software,USA,CA,Sacramento,Lincoln,2008-01-01,2008,2008-01,2008-Q1,1,500000,2011-12-08,2011-12-08
+Amirite.com,operating,/organization/amirite,http://www.amirite.com,Social Media,GBR,,London,London,,,,,1,2500000,2013-02-10,2013-02-10
+Metwit,operating,/organization/metwit,http://metwit.com,News,GBR,,London,London,2012-04-04,2012,2012-04,2012-Q2,1,25000,2012-08-30,2012-08-30
+Sapheon,acquired,/organization/sapheon,http://www.sapheoninc.com,Health Care,USA,CA,Napa Valley,Santa Rosa,2007-01-01,2007,2007-01,2007-Q1,6,35771750,2008-10-28,2013-11-21
+MeisterLabs,,/organization/mindmeister,http://www.mindmeister.com,Office Space,DEU,,Munich,Munich,2007-02-05,2007,2007-02,2007-Q1,1,0,2008-07-01,2008-07-01
+Spinifex Pharmaceuticals,operating,/organization/spinifex-pharmaceuticals,http://www.spinifexpharma.com.au,Biotechnology,GBR,,Preston,Preston,2005-06-01,2005,2005-06,2005-Q2,2,64000000,2011-08-23,2014-04-10
+EventVue,closed,/organization/eventvue,http://www.eventvue.com,Curated Web,USA,CO,Denver,Boulder,2007-05-01,2007,2007-05,2007-Q2,2,455000,2007-08-01,2007-09-01
+ShopSpot,operating,/organization/shopspot,http://shopspotapp.com,Mobile Commerce,SGP,,Singapore,Singapore,2012-02-01,2012,2012-02,2012-Q1,2,628000,2012-04-01,2013-02-19
+Michigan Home Brokers,operating,/organization/michigan-home-brokers,http://www.mhbrokers.org/,Real Estate,USA,MI,Detroit,Washington,2010-11-01,2010,2010-11,2010-Q4,1,0,2013-01-31,2013-01-31
+Mentor Me,operating,/organization/mentor-me,http://getmentorme.com,Teachers,USA,TN,Memphis,Memphis,2012-12-08,2012,2012-12,2012-Q4,2,175000,2013-01-31,2014-02-03
+Pact,operating,/organization/pactcoffee,http://pactcoffee.com,Coffee,GBR,,GBR - Other,Bermondsey,2012-09-01,2012,2012-09,2012-Q3,2,3355282,2013-03-27,2014-08-11
+Three Squirrels E-commerce,operating,/organization/three-squirrels-e-commerce,http://www.3songshu.com,E-Commerce,CHN,,CHN - Other,Wuhu,2012-01-01,2012,2012-01,2012-Q1,1,6000000,2013-07-01,2013-07-01
+Harbor Wing Technologies,operating,/organization/harbor-wing-technologies,http://harborwingtech.com,Manufacturing,USA,WA,Seattle,Seattle,2003-01-01,2003,2003-01,2003-Q1,2,186200,2010-04-09,2011-08-24
+Onset Financial,operating,/organization/onset-financial,http://www.onsetfinancial.com,Finance,USA,UT,Salt Lake City,South Jordan,2008-11-03,2008,2008-11,2008-Q4,1,7700000,2014-10-17,2014-10-17
+"NephoScale, Inc.",operating,/organization/nephoscale,http://www.nephoscale.com,Software,USA,CA,SF Bay Area,San Jose,2010-01-01,2010,2010-01,2010-Q1,1,1000000,2013-07-20,2013-07-20
+G-Zero Therapeutics,operating,/organization/g-zero-therapeutics,,Biotechnology,USA,NC,Raleigh,Chapel Hill,,,,,2,1220786,2012-10-12,2013-04-18
+Hyperpia,operating,/organization/hyperpia,,Games,USA,CA,SF Bay Area,Fremont,,,,,1,3000000,2007-05-07,2007-05-07
+Exabeam,operating,/organization/exabeam,http://www.exabeam.com/,Information Technology,USA,CA,SF Bay Area,San Mateo,2013-01-01,2013,2013-01,2013-Q1,1,10000000,2014-06-10,2014-06-10
+Allele Biotech,operating,/organization/allele-biotech,http://www.allelebiotech.com/,Biotechnology,USA,CA,San Diego,San Diego,1999-01-01,1999,1999-01,1999-Q1,1,7000000,2014-09-24,2014-09-24
+RF Biocidics,operating,/organization/rf-biocidics,http://www.rfbiocidics.com,Health and Wellness,USA,CA,Napa Valley,Vacaville,,,,,1,10000000,2011-06-16,2011-06-16
+,,,,,,,,,,,,,,,,
+Toolwi,operating,/organization/toolwi,http://toolwi.com,Services,,,,,2008-04-29,2008,2008-04,2008-Q2,1,0,2008-01-01,2008-01-01
+Scivantage,operating,/organization/scivantage,http://www.scivantage.com,Finance,USA,NJ,Newark,Jersey City,2000-01-01,2000,2000-01,2000-Q1,5,59700000,2006-10-26,2014-06-23
+YouFetch,operating,/organization/youfetch,http://www.youfetch.co,Marketplaces,USA,CA,Los Angeles,Venice,2013-01-01,2013,2013-01,2013-Q1,1,0,2013-09-01,2013-09-01
+Saranas,operating,/organization/saranas,http://saranas.com,Health Care,USA,TX,Houston,Houston,2011-01-01,2011,2011-01,2011-Q1,1,50000,2012-03-19,2012-03-19
+Apiary,operating,/organization/apiary,http://apiary.io,Software,USA,CA,SF Bay Area,San Francisco,2011-04-27,2011,2011-04,2011-Q2,2,1750000,2011-12-23,2013-09-17
+Greenville Chamber,operating,/organization/greenville-chamber,http://greenvillechamber.org,Education,USA,SC,Greenville - Spartanburg,Greenville,,,,,1,25000,2013-11-27,2013-11-27
+Hubbly Bubbly,operating,/organization/hubbly-bubbly,http://hubblybubbly.uk.com/,,,,,,,,,,1,0,2014-01-09,2014-01-09
+Legal River,closed,/organization/legal-river,http://www.legalriver.com,Legal,USA,DC,"Washington, D.C.",Washington,2009-01-01,2009,2009-01,2009-Q1,2,0,2009-01-01,2009-04-01
+Kamida,operating,/organization/kamida,http://kamidaconcrete.com,Software,USA,NY,New York City,New York,2006-01-01,2006,2006-01,2006-Q1,1,584269,2010-02-25,2010-02-25
+PEPperPRINT,operating,/organization/pepperprint,http://www.pepperprint.com,Biotechnology,DEU,,Frankfurt,Heidelberg,,,,,1,676000,2010-03-31,2010-03-31
+Gamestaq,closed,/organization/gamestaq,http://gamestaq.com,Video Games,USA,NY,New York City,New York,,,,,1,1000000,2010-06-01,2010-06-01
+SBS Resources,operating,/organization/sbs-resources,,Manufacturing,USA,NY,New York City,Goshen,2014-03-03,2014,2014-03,2014-Q1,1,0,2014-10-08,2014-10-08
+Velti,operating,/organization/velti,http://www.velti.com,App Marketing,USA,CA,SF Bay Area,San Francisco,2001-01-01,2001,2001-01,2001-Q1,3,32034118,2009-06-01,2013-05-08
+Cro Analytics,operating,/organization/cro-analytics,http://croanalytics.com,Analytics,USA,PA,Philadelphia,New Hope,,,,,2,175000,2014-02-20,2014-06-18
+Klevu Oy,operating,/organization/klevu-oy,http://www.klevu.com/,E-Commerce,FIN,,Helsinki,Helsinki,,,,,1,344314,2014-04-01,2014-04-01
+Partigi,operating,/organization/partigi,http://www.partigi.com,Social Media,ESP,,Madrid,Madrid,2009-05-01,2009,2009-05,2009-Q2,1,132750,2009-05-01,2009-05-01
+Day Zero Project,operating,/organization/day-zero-project,http://dayzeroproject.com,Software,CHL,,Santiago,Santiago,2011-11-01,2011,2011-11,2011-Q4,1,40000,2011-12-01,2011-12-01
+Novacem,closed,/organization/novacem,http://novacem.com,Clean Technology,GBR,,London,London,,,,,1,2393578,2011-01-27,2011-01-27
+HeTexted,operating,/organization/hetexted,http://HeTexted.com,Advice,USA,NY,New York City,New York,2012-10-01,2012,2012-10,2012-Q4,1,900000,2013-04-12,2013-04-12
+Foodtoeat,operating,/organization/foodtoeat,http://www.foodtoeat.com,Restaurants,USA,NY,New York City,New York,2011-05-31,2011,2011-05,2011-Q2,1,500000,2011-07-01,2011-07-01
+iKaaz,operating,/organization/ikaaz,http://ikaaz.com,NFC,IND,,Bangalore,Bangalore,2012-07-04,2012,2012-07,2012-Q3,2,0,2014-01-02,2014-01-30
+Drais Pharmaceuticals,operating,/organization/drais-pharmaceuticals,http://draispharma.com,Biotechnology,,,,,2007-01-01,2007,2007-01,2007-Q1,1,20000000,2010-02-20,2010-02-20
+Oviceversa,operating,/organization/oviceversa,http://www.oviceversa.es,Entertainment,ESP,,Madrid,Madrid,2013-01-01,2013,2013-01,2013-Q1,1,0,2014-07-15,2014-07-15
+Trony Solar,,/organization/trony-solar,http://www.trony.com/en,Renewable Energies,CHN,,Shenzhen,Shenzhen,1993-01-01,1993,1993-01,1993-Q1,1,20000000,2008-10-28,2008-10-28
+Zeto,operating,/organization/zeto,http://www.zeto.ie/#1024,Clean Technology IT,IRL,,Cork,Cork,2011-03-23,2011,2011-03,2011-Q1,1,38817,2012-01-01,2012-01-01
+,,,,,,,,,,,,,,,,
+Mithridion,operating,/organization/mithridion,http://www.mithridion.com,Biotechnology,USA,WI,Madison,Madison,,,,,2,4158499,2009-01-21,2011-01-11
+svh24.de,operating,/organization/svh24-de,http://svh24.de,E-Commerce,DEU,,Dortmund,Dortmund,,,,,1,4830000,2010-06-11,2010-06-11
+,,,,,,,,,,,,,,,,
+BreatheAmerica,operating,/organization/breathe-america,http://www.breatheamerica.com,Health and Wellness,USA,TN,Nashville,Nashville,2006-01-01,2006,2006-01,2006-Q1,4,29800000,2008-06-20,2013-09-24
+AuthorityLabs,operating,/organization/authoritylabs,http://authoritylabs.com,Internet Marketing,,,,,2008-09-22,2008,2008-09,2008-Q3,1,15000,2008-09-22,2008-09-22
+Rebellion Photonics,operating,/organization/rebellion-photonics,http://rebellionphotonics.com,Photography,USA,TX,Houston,Houston,2009-01-01,2009,2009-01,2009-Q1,1,10400000,2014-01-09,2014-01-09
+TayaSola,operating,/organization/tayasola,http://www.tayasola.com/,Energy IT,USA,WA,Seattle,Seattle,2007-05-15,2007,2007-05,2007-Q2,1,17000,2012-09-01,2012-09-01
+Hexagram 49,operating,/organization/hexagram-49,,Analytics,,,,,,,,,2,11000000,2011-09-16,2013-11-25
+Exodus Payment Systems,operating,/organization/exodus-payment-systems,http://exoduspaymentsystems.com,Software,USA,GA,GA - Other,Blackshear,2009-01-01,2009,2009-01,2009-Q1,2,987083,2009-06-05,2011-06-28
+,,,,,,,,,,,,,,,,
+Floobits,operating,/organization/floobits,http://floobits.com,Software,USA,CA,SF Bay Area,San Francisco,2013-01-01,2013,2013-01,2013-Q1,2,0,2013-06-01,2013-09-01
+ShiftForward,operating,/organization/shiftforward,http://www.shiftforward.eu,Media,PRT,,Porto,Porto,2011-05-31,2011,2011-05,2011-Q2,1,0,2014-10-13,2014-10-13
+Integral Ad Science,operating,/organization/integralads,http://www.integralads.com,Advertising,USA,NY,New York City,New York,2009-01-01,2009,2009-01,2009-Q1,4,49750000,2009-10-06,2014-01-02
+iChange,acquired,/organization/ichange,http://www.ichange.com,Messaging,USA,CA,Los Angeles,Pasadena,2008-01-01,2008,2008-01,2008-Q1,4,2330500,2007-10-01,2010-11-18
+SheFinds Media,operating,/organization/white-cat-media,http://www.shefinds.com,Shopping,USA,NY,New York City,New York,2004-02-01,2004,2004-02,2004-Q1,1,1300000,2008-11-24,2008-11-24
+Ombitron,operating,/organization/ombitron,http://www.ombitron.com,Internet of Things,USA,WA,Seattle,Seattle,2013-01-01,2013,2013-01,2013-Q1,2,256960,2013-04-22,2014-02-21
+Network,operating,/organization/network-3,,Productivity Software,,,,,2013-03-01,2013,2013-03,2013-Q1,2,3000000,2013-07-22,2014-04-23
+Solovis,operating,/organization/solovis,http://solovis.com,Software,USA,AL,Birmingham,Birmingham,,,,,1,250000,2014-04-01,2014-04-01
+Universal Fuels,operating,/organization/universal-fuels,http://universalfuels.co.uk,Automotive,GBR,,London,London,,,,,1,78082,2012-08-01,2012-08-01
+Callvine,operating,/organization/callvine,http://www.callvine.com,iPhone,USA,TX,Austin,Austin,2011-04-01,2011,2011-04,2011-Q2,1,4000000,2010-08-09,2010-08-09
+s0cket,operating,/organization/s0cket,http://www.s0cket.com,Android,AUS,,Melbourne,Melbourne,,,,,1,150000,2013-05-10,2013-05-10
+Viajala,operating,/organization/escapar,http://viajala.com/,Online Travel,COL,,Bogota,Bogotá,2013-01-01,2013,2013-01,2013-Q1,1,130000,2014-04-01,2014-04-01
+FatSkunk,operating,/organization/fatskunk,http://www.fatskunk.com,Software,,,,,2009-01-01,2009,2009-01,2009-Q1,1,250000,2012-11-12,2012-11-12
+,,,,,,,,,,,,,,,,
+IP Commerce,operating,/organization/ip-commerce,http://www.commercesync.com,Software,,,,,2005-01-01,2005,2005-01,2005-Q1,4,44028672,2008-04-01,2012-08-17
+Upplication,operating,/organization/upplication,http://upplication.com/build-your-app,Mobile,ESP,,Madrid,Madrid,2012-10-11,2012,2012-10,2012-Q4,1,469255,2012-10-22,2012-10-22
+FilterSure,operating,/organization/filtersure-inc,http://www.filtersureinc.com,,USA,VA,"Washington, D.C.",Mclean,2006-06-23,2006,2006-06,2006-Q2,1,0,2012-02-08,2012-02-08
+AngioSlide,operating,/organization/angioslide,http://www.angioslide.com,Health Care,USA,CO,Denver,Wheat Ridge,2005-01-01,2005,2005-01,2005-Q1,6,30150000,2006-12-01,2013-01-03
+Stormpath,operating,/organization/stormpath,http://www.stormpath.com,Software,USA,CA,SF Bay Area,San Mateo,,,,,2,9700000,2012-03-19,2013-02-19
+BehavioSec,operating,/organization/behaviosec,http://www.behaviosec.com,Security,SWE,,Lulea,Luleå,2007-01-01,2007,2007-01,2007-Q1,2,2026620,2008-01-01,2011-05-10
+9flats,operating,/organization/9flats,http://www.9flats.com,Travel,DEU,,Berlin,Berlin,2011-02-01,2011,2011-02,2011-Q1,1,0,2012-01-12,2012-01-12
+Whistlestop,operating,/organization/whistlestop,http://www.whistlestop.com,Analytics,,,,,2011-10-01,2011,2011-10,2011-Q4,1,400000,2011-07-01,2011-07-01
+,,,,,,,,,,,,,,,,
+Ogden Tomotherapy,operating,/organization/ogden-tomotherapy,,,USA,TN,Nashville,Nashville,2011-01-01,2011,2011-01,2011-Q1,1,676708,2011-12-08,2011-12-08
+Intellicyt,operating,/organization/intellicyt,http://intellicyt.com,Biotechnology,USA,NM,Albuquerque,Albuquerque,2006-01-01,2006,2006-01,2006-Q1,2,12000000,2013-05-06,2014-06-10
+DoorDash,operating,/organization/doordash,http://www.doordash.com,Small and Medium Businesses,USA,CA,SF Bay Area,Palo Alto,2013-01-01,2013,2013-01,2013-Q1,3,19700000,2013-03-01,2014-05-22
+Hello Local Media ( HLM ),operating,/organization/hello-local-media-hlm,http://helloaround.me,News,RUS,,Moscow,Moscow,2012-03-01,2012,2012-03,2012-Q1,1,50000,2011-05-01,2011-05-01
+QE Ventures,operating,/organization/qe-ventures,http://qfdevelop.com,Software,USA,NY,New York City,New York,2000-01-01,2000,2000-01,2000-Q1,1,232845,2012-07-17,2012-07-17
+Atonarp,operating,/organization/atonarp,http://www.atonarp.com/,Manufacturing,JPN,,Tokyo,Tokyo,,,,,1,8000000,2014-08-12,2014-08-12
+iPerceptions,operating,/organization/iperceptions,http://www.iperceptions.com,Analytics,USA,NY,New York City,New York,2000-01-01,2000,2000-01,2000-Q1,1,3650000,2008-12-02,2008-12-02
+Blue Diamond Technologies,operating,/organization/blue-diamond-technologies,http://bluediamondtechltd.com,Clean Technology,,,,,,,,,1,102809,2012-12-14,2012-12-14
+Blackwave,acquired,/organization/acinion,http://www.blackwave.tv,Storage,USA,MA,Boston,Acton,2006-01-01,2006,2006-01,2006-Q1,3,28000000,2006-12-01,2009-09-30
+Reonomy,operating,/organization/reonomy,http://www.reonomy.com,Analytics,USA,NY,New York City,New York,2013-03-01,2013,2013-03,2013-Q1,2,4850000,2013-03-01,2014-03-18
+vSocial,operating,/organization/vsocial,http://www.vsocial.com,Enterprise Software,USA,AZ,Phoenix,Tempe,,,,,2,0,2007-01-01,2007-09-01
+CasterStats,acquired,/organization/casterstats,http://www.casterstats.com,Software,BEL,,Brussels,Liège,2009-10-15,2009,2009-10,2009-Q4,1,631720,2009-10-15,2009-10-15
+Rivalry,operating,/organization/rivalry,http://rivalry.com,Internet,USA,GA,Atlanta,Atlanta,2012-01-01,2012,2012-01,2012-Q1,1,550000,2014-07-11,2014-07-11
+MindBodyGreen,operating,/organization/mindbodygreen,http://www.mindbodygreen.com,Health and Wellness,USA,NY,New York City,Brooklyn,2009-01-01,2009,2009-01,2009-Q1,1,1870000,2014-03-02,2014-03-02
+Touch Payments,operating,/organization/touch-payments,http://www.touchpayments.com.au,E-Commerce,AUS,,Sydney,Surry Hills,,,,,1,0,2013-12-01,2013-12-01
+CradlePoint Technology,operating,/organization/cradlepoint,http://www.cradlepoint.com,Hardware + Software,USA,ID,Boise,Boise,2004-01-01,2004,2004-01,2004-Q1,4,17628255,2009-07-27,2012-07-24
+Gobooks,operating,/organization/gobooks,http://gobooks.com.br/,Textbooks,BRA,,Rio de Janeiro,Rio De Janeiro,2013-01-24,2013,2013-01,2013-Q1,2,325000,2013-01-01,2013-03-01
+TunePatrol,operating,/organization/tunepatrol,http://tunepatrol.com,Music,IND,,Bangalore,Bangalore,2012-03-30,2012,2012-03,2012-Q1,1,20000,2012-08-01,2012-08-01
+Tokiva Technologies,operating,/organization/tokiva-technologies,http://www.tokiva.com,Mobile,CAN,ON,Toronto,Toronto,2007-09-01,2007,2007-09,2007-Q3,1,0,2007-11-01,2007-11-01
+Flash Auto Detailing,operating,/organization/flash-auto-detailing,http://www.flashautodetailing.com/,,CAN,BC,BC - Other,Richmond,2011-05-30,2011,2011-05,2011-Q2,1,1000,2014-03-16,2014-03-16
+Analyte Health,operating,/organization/analyte-health,,Health Care,USA,IL,Chicago,Chicago,2007-01-01,2007,2007-01,2007-Q1,5,38550000,2008-10-31,2012-07-25
+,,,,,,,,,,,,,,,,
+Kingdom Scene Endeavors,operating,/organization/kingdom-scene-endeavors,http://www.kingdomscene.com,Games,USA,MO,St. Louis,St Louis,2009-01-01,2009,2009-01,2009-Q1,4,3365000,2010-06-01,2014-02-06
+CiteHealth,operating,/organization/citehealth,http://citehealth.com,Analytics,USA,CO,Denver,Brighton,2007-01-01,2007,2007-01,2007-Q1,1,768000,2007-01-01,2007-01-01
+linkedFA,operating,/organization/linkedfa,http://www.linkedfa.com,Social Media,USA,FL,Ft. Lauderdale,Coral Springs,,,,,1,3000000,2011-03-22,2011-03-22
+Get-n-Post,operating,/organization/get-n-post,http://get-n-post.ru/,,,,,,,,,,1,0,2014-01-01,2014-01-01
+JethroData,operating,/organization/jethrodata,http://www.jethrodata.com,Analytics,ISR,,Netanya,Netanya,2012-03-01,2012,2012-03,2012-Q1,1,4500000,2013-02-27,2013-02-27
+Hobzy,operating,/organization/hobzy,http://hobzy.com,E-Commerce,GBR,,GBR - Other,,2011-01-01,2011,2011-01,2011-Q1,2,232629,2013-08-30,2013-09-02
+Ameristream,operating,/organization/ameristream,http://ameristreamlive.com,Entertainment,USA,NY,Long Island,Port Washington,2006-09-06,2006,2006-09,2006-Q3,1,0,2012-04-17,2012-04-17
+Panoratio,operating,/organization/panoratio,http://www.panoratio.com,Software,DEU,,Munich,Munich,2003-01-01,2003,2003-01,2003-Q1,4,8168723,2005-09-14,2012-10-09
+Opera Solutions,operating,/organization/opera-solutions,http://www.operasolutions.com,Predictive Analytics,USA,NJ,Newark,Jersey City,2004-01-01,2004,2004-01,2004-Q1,3,122199999,2011-09-14,2014-10-23
+,,,,,,,,,,,,,,,,
+Booklr,acquired,/organization/booklr,http://www.booklr.com,Analytics,,,,,2010-01-01,2010,2010-01,2010-Q1,1,500000,2011-01-01,2011-01-01
+"UICO, LLC",operating,/organization/uico-inc,http://www.uico.com,Technology,USA,IL,Chicago,Elmhurst,,,,,4,12400000,2008-05-13,2014-01-23
+Crimson Hexagon,operating,/organization/crimson-hexagon,http://crimsonhexagon.com,Social Media Monitoring,USA,MA,Boston,Boston,2007-08-01,2007,2007-08,2007-Q3,5,11158362,2009-09-09,2012-09-28
+,,,,,,,,,,,,,,,,
+Cheers,operating,/organization/cheers,http://chee.rs,Mobile,USA,CA,Los Angeles,Torrance,2011-09-01,2011,2011-09,2011-Q3,1,2500000,2013-03-05,2013-03-05
+Zify,operating,/organization/zify,http://zify.co,Social Network Media,IND,,Hyderabad,Hyderabad,2014-03-10,2014,2014-03,2014-Q1,1,16600,2014-05-14,2014-05-14
+,,,,,,,,,,,,,,,,
+Sentri,operating,/organization/sentri,http://sentri.me/,Home Automation,USA,CA,SF Bay Area,San Francisco,2014-03-27,2014,2014-03,2014-Q1,1,125000,2014-08-12,2014-08-12
+LightTable,operating,/organization/lighttable,http://www.lighttable.com,Web Development,,,,,,,,,1,0,2012-08-01,2012-08-01
+V2contact,operating,/organization/v2contact,http://www.v2contact.com/,,PER,,Lima,Lima,,,,,2,60000,2014-03-01,2014-06-01
+Popularo,closed,/organization/popularo,http://popularo.com,Social Bookmarking,USA,PA,Philadelphia,Philadelphia,2007-10-15,2007,2007-10,2007-Q4,1,0,2007-11-01,2007-11-01
+Tactical Awareness Beacon Systems,operating,/organization/tactical-awareness-beacon-systems,http://tabscorp.com,Hardware + Software,USA,CT,CT - Other,North Canton,,,,,1,500000,2013-05-18,2013-05-18
+Applied Minerals,operating,/organization/applied-minerals,http://appliedminerals.com,,USA,NY,New York City,New York,,,,,2,12500000,2013-08-05,2014-11-07
+Map Decisions,operating,/organization/map-decisions,http://mapdecisions.com,Software,USA,PA,Allentown,Bethlehem,2012-05-15,2012,2012-05,2012-Q2,1,13200,2013-08-09,2013-08-09
+Guardian EMS Products,operating,/organization/guardian-ems-products,http://guardianemsproducts.com,Manufacturing,USA,CA,San Diego,Vista,2011-07-05,2011,2011-07,2011-Q3,1,575000,2011-06-17,2011-06-17
+Integrated Medical Partners,operating,/organization/integrated-medical-partners,http://www.integratedmp.com,Health Care,USA,WI,Milwaukee,Milwaukee,2008-01-01,2008,2008-01,2008-Q1,2,3000000,2010-03-03,2010-09-07
+Cardiac Insight,operating,/organization/cardiac-insight,,Biotechnology,USA,WA,Seattle,Bellevue,2008-01-01,2008,2008-01,2008-Q1,6,10500249,2011-01-07,2014-07-21
+Siteminis,operating,/organization/siteminis,http://www.siteminis.com/home.html,Mobile,USA,GA,Atlanta,Marietta,2007-01-01,2007,2007-01,2007-Q1,2,725000,2009-12-31,2011-02-01
+Bihu.com,closed,/organization/bihu-com,http://www.bihu.com,Advertising,CHN,,Beijing,Beijing,,,,,1,10000000,2008-06-09,2008-06-09
+Comenta TV,,/organization/comenta-tv,http://comenta.tv,News,ARG,,Buenos Aires,Buenos Aires,2012-01-01,2012,2012-01,2012-Q1,4,538062,2011-09-01,2013-11-01
+StartupBlink,operating,/organization/startupblink,http://startupblink.com,Analytics,CHE,,Zurich,Zürich,,,,,1,28000,2013-09-15,2013-09-15
+Innovate2,operating,/organization/innovate2,,Fashion,USA,CA,Ontario - Inland Empire,Rancho Cucamonga,2012-12-01,2012,2012-12,2012-Q4,1,0,2013-10-22,2013-10-22
+JDLab,operating,/organization/jdlab,http://www.iueditor.org,Web Development,,,,,2013-12-24,2013,2013-12,2013-Q4,1,1000000,2014-01-31,2014-01-31
+Microbial Solutions,operating,/organization/microbial-solutions,http://www.microbialsolutions.co.uk,,GBR,,London,Oxford,2007-12-01,2007,2007-12,2007-Q4,1,2341991,2008-01-22,2008-01-22
+Mimix Broadband,acquired,/organization/mimix-broadband,http://www.mimixbroadband.com,Semiconductors,USA,MA,Boston,Lowell,,,,,3,18500000,2003-11-01,2008-07-17
+LucidMedia,acquired,/organization/lucidmedia,http://www.lucidmedia.com,Sales and Marketing,USA,VA,"Washington, D.C.",Reston,1999-01-01,1999,1999-01,1999-Q1,3,18734312,2008-12-04,2011-06-20
+Greenlots,operating,/organization/greenlots,http://www.greenlots.com,Clean Technology,USA,CA,SF Bay Area,San Francisco,2008-09-01,2008,2008-09,2008-Q3,2,7000000,2008-09-01,2011-06-01
+FANCY CELLAR - 品庄酒业,operating,/organization/fancycellar,http://www.fancycellar.com,Hospitality,CHN,,Shanghai,Shanghai,2013-01-13,2013,2013-01,2013-Q1,1,150000,2013-01-13,2013-01-13
+SimpleFi,operating,/organization/simplefi,http://simplefi.org,,,,,,2012-08-01,2012,2012-08,2012-Q3,1,3000000,2014-03-01,2014-03-01
+Oriental-Creations,operating,/organization/oriental-creations,http://www.oriental-creations.com,E-Commerce,UZB,,Tashkent,Tashkent,2006-10-17,2006,2006-10,2006-Q4,1,90000,2007-03-05,2007-03-05
+Conferize,operating,/organization/conferize,http://www.conferize.com,Curated Web,DNK,,Copenhagen,Copenhagen,2010-01-01,2010,2010-01,2010-Q1,2,1330000,2012-11-03,2013-09-18
+AdvanDx,operating,/organization/advandx,http://www.advandx.com,Biotechnology,USA,MA,Boston,Woburn,2002-01-01,2002,2002-01,2002-Q1,3,22200000,2009-10-12,2014-04-08
+Axion BioSystems,operating,/organization/axion-biosystems,http://axionbiosystems.com,Biotechnology,USA,GA,Atlanta,Atlanta,,,,,3,6308960,2009-04-30,2012-05-09
+Organovo Holdings,operating,/organization/organovo-holdings,http://organovo.com,Biotechnology,USA,CA,San Diego,San Diego,,,,,3,26352435,2011-11-02,2013-01-04
+Xalam Investments,operating,/organization/xalam-investments,,Real Estate,USA,UT,Salt Lake City,South Jordan,2014-08-21,2014,2014-08,2014-Q3,1,0,2014-08-24,2014-08-24
+Kopo Kopo,operating,/organization/kopo-kopo,http://www.kopokopo.com,E-Commerce,KEN,,Nairobi,Nairobi,2010-08-01,2010,2010-08,2010-Q3,5,6359922,2010-08-20,2013-11-12
+Lendio,operating,/organization/lendio,http://lendio.com,Finance,USA,UT,Salt Lake City,South Jordan,2006-03-15,2006,2006-03,2006-Q1,3,12500000,2011-02-17,2013-08-28
+"Kibboko, Inc.",closed,/organization/kibboko,http://www.kibboko.com,Software,CAN,ON,Toronto,Toronto,2008-06-27,2008,2008-06,2008-Q2,1,2500000,2007-08-14,2007-08-14
+Lucibel,operating,/organization/lucibel,http://www.lucibel.com,Security,HKG,,Hong Kong,Hong Kong,2008-01-01,2008,2008-01,2008-Q1,5,33378639,2012-06-07,2013-12-19
+Prolexic Technologies,acquired,/organization/prolexic,http://www.prolexic.com,Enterprise Software,USA,FL,Ft. Lauderdale,Hollywood,2003-01-01,2003,2003-01,2003-Q1,3,51900000,2011-03-28,2013-07-25
+Jackson Square Group,operating,/organization/jackson-square-group,http://jacksonsquaregroup.com,Technology,USA,LA,New Orleans,New Orleans,2010-04-01,2010,2010-04,2010-Q2,1,0,2010-07-16,2010-07-16
+Kynogon,closed,/organization/kynogon,http://www.kynogon.com,Software,FRA,,Paris,Suresnes,2000-01-01,2000,2000-01,2000-Q1,1,3000000,2006-01-03,2006-01-03
+Dee's Ventures,operating,/organization/dee-s-ventures,,Consumer Electronics,USA,NC,Raleigh,Raleigh,2014-09-15,2014,2014-09,2014-Q3,1,0,2014-10-03,2014-10-03
+,,,,,,,,,,,,,,,,
+Trex Enterprises,operating,/organization/trex-enterprises,http://trexenterprises.com,Enterprise Software,USA,CA,San Diego,San Diego,,,,,1,1680000,2011-01-11,2011-01-11
+Grand Circus,operating,/organization/grand-circus,http://grandcircus.co,Education,USA,MI,Detroit,Detroit,2013-02-01,2013,2013-02,2013-Q1,1,1250000,2013-05-31,2013-05-31
+Visicon Technologies,operating,/organization/visicon-technologies,http://www.visicontech.com,,USA,CA,Napa Valley,Napa,2001-01-01,2001,2001-01,2001-Q1,1,1102000,2012-07-01,2012-07-01
+Wit Dot Media Inc,operating,/organization/dingdong,http://taptalk.me,Photography,USA,CA,SF Bay Area,San Francisco,2012-01-01,2012,2012-01,2012-Q1,1,0,2013-07-24,2013-07-24
+Evi,acquired,/organization/evi,http://www.evi.com,Mobile,GBR,,London,Cambridge,2005-08-01,2005,2005-08,2005-Q3,2,5190128,2007-09-01,2008-07-29
+Golfshop Online,operating,/organization/golfshop-online,http://golfshop-online.net,Sports,CHE,,Zurich,Zug,2011-08-20,2011,2011-08,2011-Q3,1,35000,2013-01-01,2013-01-01
+Scripps Networks Interactive,operating,/organization/scripps-networks-interactive,http://www.scrippsnetworks.com,Curated Web,USA,TN,Knoxville,Knoxville,1994-01-01,1994,1994-01,1994-Q1,1,10000000,2010-03-01,2010-03-01
+,,,,,,,,,,,,,,,,
+"Nurture, Inc.",operating,/organization/nurture-inc,http://happyfamilybrands.com,Hospitality,USA,NY,New York City,New York,2006-01-01,2006,2006-01,2006-Q1,2,7631514,2010-12-10,2011-12-02
+,,,,,,,,,,,,,,,,
+Nifti,operating,/organization/nifti,http://nifti.com,Curated Web,USA,MA,Boston,Boston,2012-01-01,2012,2012-01,2012-Q1,1,800000,2013-07-18,2013-07-18
+LeisureLogix,closed,/organization/leisurelogix,http://www.roadescapes.com,Maps,USA,FL,Tampa,Tampa,2006-08-01,2006,2006-08,2006-Q3,3,5900000,2007-01-01,2007-01-01
+,,,,,,,,,,,,,,,,
+Energy Solutions International,operating,/organization/energy-solutions-international,http://www.esilighting.com,Clean Technology,USA,MN,Minneapolis,Saint Paul,1992-01-01,1992,1992-01,1992-Q1,1,9500000,2010-06-15,2010-06-15
+Up My Game,operating,/organization/up-my-game,http://www.upmygame.com,Apps,CAN,NS,Halifax,Halifax,2009-01-31,2009,2009-01,2009-Q1,1,242718,2013-09-13,2013-09-13
+PlaySquare,operating,/organization/playsquare,http://playsquare.tv,Mobile,USA,NY,New York City,New York,2011-04-01,2011,2011-04,2011-Q2,1,660000,2013-04-11,2013-04-11
+Envio Networks,acquired,/organization/envio-networks,http://www.envionetworks.com,E-Commerce,USA,MA,Boston,Andover,,,,,2,17000000,2006-06-22,2008-04-23
+Ad Hoc Labs,operating,/organization/ad-hoc-labs-2,http://burnerapp.com,Mobile,USA,CA,Los Angeles,Los Angeles,2012-08-01,2012,2012-08,2012-Q3,2,2000000,2012-10-18,2013-10-21
+RehabDev,operating,/organization/rehabdev,,Health and Wellness,USA,AZ,Phoenix,Scottsdale,,,,,1,25000,2012-11-21,2012-11-21
+regrob.com,operating,/organization/regrob-com,http://www.regrob.com,Real Estate,IND,,New Delhi,Noida,2008-02-08,2008,2008-02,2008-Q1,1,2000,2013-05-30,2013-05-30
+Planbox,operating,/organization/planbox,http://www.planbox.com,Enterprise Software,CAN,QC,Montreal,Montréal,2009-09-15,2009,2009-09,2009-Q3,1,0,2009-09-01,2009-09-01
+JobApp,operating,/organization/jobapp,http://www.jobappplus.com,Enterprise Software,USA,CO,Denver,Denver,1997-01-01,1997,1997-01,1997-Q1,1,0,2013-01-23,2013-01-23
+Zila Networks,closed,/organization/zila-networks,http://zilanetworks.com,Mobile,USA,FL,Miami,Miami,2009-07-28,2009,2009-07,2009-Q3,1,1000000,2009-07-28,2009-07-28
+Mirics Semiconductor,operating,/organization/mirics-semiconductor,http://www.mirics.com,Semiconductors,,,,,2004-05-01,2004,2004-05,2004-Q2,5,52548106,2007-08-06,2011-09-20
+Bergen Medical Products,operating,/organization/bergen-medical-products,http://bergenmedicalproducts.com,Medical Professionals,USA,NJ,NJ - Other,Cedar Knolls,,,,,1,1634935,2014-08-04,2014-08-04
+Hightower,operating,/organization/hightower,http://gethightower.com,Real Estate,USA,NY,New York City,New York,2013-03-01,2013,2013-03,2013-Q1,2,8620000,2013-12-20,2014-08-21
+Geosho,operating,/organization/geosho,http://www.geosho.com,Enterprise Software,GBR,,GBR - Other,Caernarfon,2010-03-01,2010,2010-03,2010-Q1,1,387803,2011-01-10,2011-01-10
+Community Infopoint,operating,/organization/community-infopoint,http://www.communityinfopoint.com,Digital Signage,GBR,,GBR - Other,,2009-02-23,2009,2009-02,2009-Q1,1,29222,2009-01-01,2009-01-01
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Synarc,operating,/organization/synarc,http://synarc.com,Biotechnology,USA,CA,SF Bay Area,Newark,1998-01-01,1998,1998-01,1998-Q1,1,5000000,2009-06-17,2009-06-17
+TidePool,operating,/organization/tidepool,http://www.tidepool.co,Curated Web,USA,CA,SF Bay Area,San Francisco,2011-05-03,2011,2011-05,2011-Q2,1,1500000,2012-05-04,2012-05-04
+Optrace,operating,/organization/optrace,http://optrace.ie/,Creative Industries,IRL,,Dublin,Dublin,2013-01-01,2013,2013-01,2013-Q1,1,100000,2013-09-01,2013-09-01
+Masterson Industries,operating,/organization/masterson-industries,http://mastersonind.com,Manufacturing,USA,NM,Albuquerque,Albuquerque,2012-01-01,2012,2012-01,2012-Q1,1,0,2013-08-13,2013-08-13
+Twicketer,operating,/organization/twicketer-inc,http://www.twicketer.com,Software,USA,WI,Milwaukee,Racine,2009-10-21,2009,2009-10,2009-Q4,1,0,2012-05-14,2012-05-14
+Transaq,operating,/organization/transaq,http://transaq.ru/en,Hardware + Software,,,,,2007-01-01,2007,2007-01,2007-Q1,1,0,2008-06-01,2008-06-01
+PlayerPro,operating,/organization/playerpro,http://www.getplayerpro.com,Social Network Media,GBR,,GBR - Other,,2012-08-01,2012,2012-08,2012-Q3,1,110000,2013-01-15,2013-01-15
+I2 TELECOM INTERNATIONA,operating,/organization/i2-telecom-internationa,,,USA,GA,Atlanta,Roswell,,,,,4,5225000,2008-10-30,2009-04-27
+Caliber Infosolutions,operating,/organization/caliber-infosolutions,http://www.caliberinfosolutions.com,Biotechnology,USA,PA,Pittsburgh,Pittsburgh,,,,,1,0,2009-02-17,2009-02-17
+Chamson Group,operating,/organization/chamson-group,,Security,USA,IL,IL - Other,Collinsville,2011-06-15,2011,2011-06,2011-Q2,1,0,2011-06-15,2011-06-15
+AlleyWatch,operating,/organization/alleywatch,http://alleywatch.com,Startups,USA,NY,New York City,New York,2012-10-01,2012,2012-10,2012-Q4,1,40000,2012-10-15,2012-10-15
+Mezmeriz,operating,/organization/mezmeriz,http://www.mezmeriz.com,Hardware + Software,USA,NY,Elmira,Ithaca,2006-11-20,2006,2006-11,2006-Q4,2,2097106,2010-03-24,2012-02-23
+Consumer Agent Portal (CAP),,/organization/consumer-agent-portal-cap,http://iw.trustedchoice.com,Curated Web,USA,MN,MN - Other,Saint Louis Park,2011-01-01,2011,2011-01,2011-Q1,4,40600000,2011-08-30,2014-04-24
+3Guppies,operating,/organization/3guppies,,Music,USA,WA,Seattle,Seattle,2003-01-01,2003,2003-01,2003-Q1,1,20000000,2006-04-05,2006-04-05
+EvoApp,closed,/organization/evoapp,http://www.evoapp.com,Customer Service,USA,NC,Raleigh,Durham,2009-01-01,2009,2009-01,2009-Q1,3,3352194,2010-10-15,2012-04-20
+OGIO International,operating,/organization/ogio-international,http://ogio.com,Fashion,USA,UT,Salt Lake City,Salt Lake City,1987-01-01,1987,1987-01,1987-Q1,1,5000000,2009-09-09,2009-09-09
+,,,,,,,,,,,,,,,,
+TabbedOut,operating,/organization/tabbedout,http://www.tabbedout.com,Mobile Payments,USA,TX,Austin,Austin,2009-06-24,2009,2009-06,2009-Q2,5,17510353,2010-01-12,2013-10-04
+Kato,operating,/organization/kato,http://kato.im,Business Information Systems,USA,CA,SF Bay Area,Oakland,2013-01-01,2013,2013-01,2013-Q1,2,1878000,2013-05-13,2013-08-01
+Newsflare,operating,/organization/newsflare,http://www.newsflare.com/,Media,GBR,,London,London,2011-01-01,2011,2011-01,2011-Q1,1,82945,2014-03-19,2014-03-19
+Hot Potato,acquired,/organization/hotpotato,http://www.hotpotato.com,Social Media,USA,NY,New York City,Brooklyn,2009-01-01,2009,2009-01,2009-Q1,1,1420000,2009-11-25,2009-11-25
+The Printers Inc,operating,/organization/the-printers-inc,http://www.theprintersinc.co.uk,Printing,,,,,2012-01-01,2012,2012-01,2012-Q1,1,60824,2013-04-01,2013-04-01
+Reputation Institute,operating,/organization/reputation-institute,http://www.reputationinstitute.com,Consulting,USA,NY,New York City,New York,1997-01-01,1997,1997-01,1997-Q1,1,0,2013-05-29,2013-05-29
+Hipscan,operating,/organization/hipscan,http://www.hipscan.com,Mobile,USA,CA,SF Bay Area,Menlo Park,2010-12-11,2010,2010-12,2010-Q4,1,100000,2013-01-01,2013-01-01
+,,,,,,,,,,,,,,,,
+PV Evolution Labs,operating,/organization/pv-evolution-labs,,,USA,CA,SF Bay Area,San Francisco,2009-01-01,2009,2009-01,2009-Q1,2,235000,2012-04-01,2012-07-01
+IndianStage,operating,/organization/indianstage,http://indianstage.in,Photography,IND,,Bangalore,Bangalore,,,,,1,0,2014-02-17,2014-02-17
+Umthunzi,operating,/organization/umthunzi,,Medical,USA,AR,Little Rock,Little Rock,2011-01-05,2011,2011-01,2011-Q1,1,0,2011-01-10,2011-01-10
+Pixonic,operating,/organization/pixonic,http://www.pixonic.com,Games,RUS,,Moscow,Moscow,2009-12-15,2009,2009-12,2009-Q4,2,10000000,2011-05-31,2011-10-26
+Chongqing Jielai Communication,operating,/organization/chongqing-jielai-communication-co-ltd,http://www.qisoe.com/company/10821.html,Communications Infrastructure,CHN,,Chongqing,Chongqing,2005-01-01,2005,2005-01,2005-Q1,1,438382,2008-10-01,2008-10-01
+Instablogs,acquired,/organization/instablogs,http://www.instablogs.com,Curated Web,USA,NY,New York City,New York,2005-10-05,2005,2005-10,2005-Q4,1,0,2008-05-01,2008-05-01
+GridGain Systems,operating,/organization/gridgain-systems,http://www.gridgain.com,Analytics,USA,CA,SF Bay Area,Foster City,2005-05-01,2005,2005-05,2005-Q2,2,12500000,2011-12-05,2013-07-29
+GamePlan Technologies,operating,/organization/gameplan-technologies,http://www.gogameplan.com,Software,USA,NE,Omaha,Omaha,2005-01-01,2005,2005-01,2005-Q1,2,3050000,2006-04-25,2013-10-16
+Seafarers CV,operating,/organization/seafarers-cv-ltd,http://www.seafarerscv.com,Networking,CAN,NS,Halifax,Halifax,2013-03-07,2013,2013-03,2013-Q1,1,0,2013-07-27,2013-07-27
+MOTA Motors,operating,/organization/mota-motors,http://www.mota.com,Automotive,USA,CA,Los Angeles,Venice,2008-02-01,2008,2008-02,2008-Q1,3,9500000,2008-04-22,2011-07-01
+DiaTech Oncology,operating,/organization/diatech-oncology,http://diatech-oncology.com,Biotechnology,USA,TN,Nashville,Brentwood,,,,,1,18000000,2013-06-04,2013-06-04
+,,,,,,,,,,,,,,,,
+Siva Power,operating,/organization/siva-power,http://sivapower.com,Manufacturing,USA,CA,SF Bay Area,San Jose,2006-01-01,2006,2006-01,2006-Q1,1,15000000,2014-06-19,2014-06-19
+"Anchor ID, Inc.",operating,/organization/anchor-id-inc,http://AnchorID.com,Software,USA,NY,New York City,Kingston,2014-01-01,2014,2014-01,2014-Q1,2,590000,2014-07-02,2014-10-01
+RealConnex.com,operating,/organization/realconnex-com,http://www.realconnex.com/,Real Estate,,,,,2012-01-01,2012,2012-01,2012-Q1,4,2450000,2012-11-18,2014-06-13
+Fieldglass,acquired,/organization/fieldglass,http://www.fieldglass.com,Software,USA,IL,Chicago,Chicago,1999-11-12,1999,1999-11,1999-Q4,2,173287501,2005-01-18,2010-10-26
+TrueAbility,operating,/organization/trueability,http://trueability.com,Enterprise Software,USA,TX,San Antonio,San Antonio,2012-01-01,2012,2012-01,2012-Q1,2,2750000,2012-11-01,2013-07-29
+,,,,,,,,,,,,,,,,
+VLinks Media,operating,/organization/vlinks-media,http://vlinksmedia.com/,Mobile,USA,IL,Chicago,Chicago,,,,,1,0,2013-02-01,2013-02-01
+Locally,operating,/organization/locally,http://locally.fm,Location Based Services,USA,PA,Harrisburg,Lititz,2012-07-15,2012,2012-07,2012-Q3,1,0,2012-07-01,2012-07-01
+Tolera Therapeutics,operating,/organization/tolera-therapeutics,http://www.tolera.com,Biotechnology,USA,MI,Kalamazoo,Kalamazoo,2007-01-01,2007,2007-01,2007-Q1,6,12323710,2008-06-16,2014-09-17
+,,,,,,,,,,,,,,,,
+Familink,operating,/organization/familink,http://familink.us/,,USA,CA,SF Bay Area,East Palo Alto,2012-01-01,2012,2012-01,2012-Q1,1,48987,2013-09-01,2013-09-01
+MavenHut,operating,/organization/mavenhut,http://www.mavenhut.com,Facebook Applications,IRL,,Dublin,Dublin,2012-04-01,2012,2012-04,2012-Q2,2,736443,2012-02-26,2012-11-07
+Single Touch Systems,operating,/organization/single-touch-systems,http://www.singletouch.net,Mobile,USA,CA,San Diego,Encinitas,2001-01-01,2001,2001-01,2001-Q1,3,11169005,2010-07-09,2012-10-11
+Silverback Systems,operating,/organization/silverback-systems,,Web Hosting,USA,CA,SF Bay Area,Campbell,2000-01-01,2000,2000-01,2000-Q1,1,16000000,2006-04-25,2006-04-25
+LegalSherpa,operating,/organization/legalsherpa,http://legal-sherpa.com,Identity,USA,NY,New York City,New York,2010-12-01,2010,2010-12,2010-Q4,1,50000,2010-12-01,2010-12-01
+Degreed,operating,/organization/degreed,http://degreed.com,Education,USA,CA,SF Bay Area,San Francisco,2012-03-01,2012,2012-03,2012-Q1,2,2700000,2012-11-30,2014-01-21
+,,,,,,,,,,,,,,,,
+Open Kernel Labs,acquired,/organization/open-kernel-labs,http://www.ok-labs.com,Enterprises,USA,IL,Chicago,Chicago,2006-01-01,2006,2006-01,2006-Q1,6,14264323,2007-09-13,2012-07-06
+OnlineSheetMusic,operating,/organization/onlinesheetmusic,http://www.onlinesheetmusic.com,Music,USA,CA,SF Bay Area,Los Altos,2011-01-01,2011,2011-01,2011-Q1,2,2157896,2007-06-18,2013-07-26
+,,,,,,,,,,,,,,,,
+Pacinian,closed,/organization/pacinian,http://www.pacinian.com,Hardware + Software,USA,WA,Spokane,Spokane,2007-04-01,2007,2007-04,2007-Q2,1,350000,2008-12-01,2008-12-01
+Unruly ®,operating,/organization/unruly-media,http://www.unruly.co,Technology,GBR,,London,London,2006-01-01,2006,2006-01,2006-Q1,1,25000000,2012-01-03,2012-01-03
+iStyle Inc.,operating,/organization/istyle-kk,http://istyle.co.jp,Beauty,JPN,,Tokyo,Tokyo,1999-07-27,1999,1999-07,1999-Q3,1,0,2003-10-17,2003-10-17
+Dapu.com,operating,/organization/dapu-com,http://dapu.com,E-Commerce,CHN,,Beijing,Beijing,,,,,1,3000000,2013-01-10,2013-01-10
+Bia,operating,/organization/bia,http://www.bia-sport.com,Health and Wellness,USA,CA,Los Angeles,Manhattan Beach,2012-01-01,2012,2012-01,2012-Q1,3,1900000,2012-07-14,2014-04-30
+Adama Innovations,operating,/organization/adama-innovations,http://adamainnovations.com/,,IRL,,Dublin,Dublin,,,,,2,1038955,2013-09-01,2014-11-03
+Bionomics,operating,/organization/bionomics,http://www.bionomics.com.au,Biotechnology,AUS,,AUS - Other,Thebarton,1999-01-01,1999,1999-01,1999-Q1,2,20469183,2009-09-03,2012-09-27
+Darwin Lab,operating,/organization/darwin-lab,,,CHL,,Santiago,Santiago,,,,,1,40000,2014-06-01,2014-06-01
+Semmle Capital Partners,operating,/organization/semmle-capital-partners,,,USA,CA,SF Bay Area,San Francisco,,,,,1,1000000,2011-12-05,2011-12-05
+Contactually,operating,/organization/contactually,http://www.contactually.com,Email,USA,DC,"Washington, D.C.",Washington,2011-07-01,2011,2011-07,2011-Q3,4,4000000,2011-10-26,2014-11-04
+eOn Communications,operating,/organization/eon-communications,http://eoncc.com,Mobile,USA,MS,Tupelo,Corinth,1991-01-01,1991,1991-01,1991-Q1,1,2750000,2013-12-31,2013-12-31
+Lecturio,operating,/organization/lecturio,http://www.lecturio.de,Education,DEU,,Leipzig,Leipzig,2008-01-01,2008,2008-01,2008-Q1,1,3859800,2014-01-20,2014-01-20
+EvolveMol,operating,/organization/evolvemol,http://www.evolvemol.com,Biotechnology,USA,CA,SF Bay Area,Berkeley,,,,,1,40000,2011-07-20,2011-07-20
+Chirply,operating,/organization/chirply,http://www.chirply.com,Social Media,USA,CA,SF Bay Area,San Francisco,2010-01-01,2010,2010-01,2010-Q1,1,1100000,2011-04-07,2011-04-07
+,,,,,,,,,,,,,,,,
+Organic Motion,operating,/organization/organic-motion,http://organicmotion.com,Software,USA,NY,New York City,New York,2006-01-01,2006,2006-01,2006-Q1,3,10384999,2009-10-22,2013-02-26
+BIO-PATH HOLDINGS,operating,/organization/bio-path-holdings,http://www.biopathholdings.com,Biotechnology,USA,TX,Houston,Houston,2011-01-01,2011,2011-01,2011-Q1,4,2317000,2010-06-02,2013-05-03
+Ella Health,operating,/organization/ella-health,http://www.ellahealth.com,Health and Wellness,USA,CA,SF Bay Area,San Francisco,2011-01-01,2011,2011-01,2011-Q1,2,7100000,2012-06-19,2013-08-12
+Skyway Software,closed,/organization/skyway-software,http://www.skywaysoftware.com,Software,USA,FL,Tampa,Tampa,2001-01-01,2001,2001-01,2001-Q1,1,4000000,2007-05-16,2007-05-16
+ESL Consulting,operating,/organization/esl-consulting,,Real Estate,USA,FL,Tampa,Largo,2014-06-13,2014,2014-06,2014-Q2,1,2000000,2014-06-13,2014-06-13
+Accent,operating,/organization/accent,http://www.accent-soc.com,Semiconductors,BRA,,Itá,Itá,,,,,2,20209960,2006-07-17,2010-10-12
+Global Data Management Software,operating,/organization/global-data-management-software,,Software,USA,MA,Boston,Boston,2010-01-01,2010,2010-01,2010-Q1,1,300000,2010-05-07,2010-05-07
+Sequenta,operating,/organization/sequenta,http://www.sequenta.com/,Biotechnology,USA,CA,SF Bay Area,San Francisco,2008-01-01,2008,2008-01,2008-Q1,4,41460000,2010-12-08,2014-10-20
+Innoveer Solutions (now Cloud Sherpas),acquired,/organization/innoveer-solutions,http://www.innoveer.com,Enterprise Software,USA,MA,Boston,Boston,1998-01-01,1998,1998-01,1998-Q1,1,1900000,2012-02-22,2012-02-22
+proteonomix,operating,/organization/proteonomix,http://proteonomix.com,Biotechnology,USA,NJ,Newark,Hawthorne,1995-01-01,1995,1995-01,1995-Q1,1,3804991,2012-03-21,2012-03-21
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+The Deal Fair,operating,/organization/the-deal-fair,http://thedealfair.com,E-Commerce,USA,PA,Philadelphia,Havertown,2011-03-30,2011,2011-03,2011-Q1,1,70000,2011-03-30,2011-03-30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+E.M.A.R.C.,operating,/organization/e-m-a-r-c,http://www.emarc.it,Manufacturing,,,,,,,,,1,10000000,2012-07-16,2012-07-16
+Sira Group,operating,/organization/sira-group,http://www.siragroup.it,Web Hosting,ITA,,ITA - Other,Castignano,,,,,1,15398400,2012-01-05,2012-01-05
+24Fundraiser.com,operating,/organization/24fundraiser-com,http://www.24Fundraiser.com,Social Fundraising,USA,IL,Chicago,Willowbrook,2007-08-01,2007,2007-08,2007-Q3,1,400000,2014-05-01,2014-05-01
+Ambassador,operating,/organization/ambassador,http://getambassador.com,Software,USA,MI,Detroit,Royal Oak,2010-01-01,2010,2010-01,2010-Q1,4,18000,2011-01-01,2012-02-01
+Canevaflor,operating,/organization/canevaflor,http://www.canevaflor.com,Clean Technology,FRA,,Franche-Comte,,2000-01-01,2000,2000-01,2000-Q1,1,1666000,2009-06-19,2009-06-19
+docBeat,operating,/organization/docbeat,http://docbeat.co,Software,USA,NV,Las Vegas,Las Vegas,2010-01-01,2010,2010-01,2010-Q1,1,1100000,2013-11-13,2013-11-13
+Tencho Technology,closed,/organization/tencho-technology,http://www.tenchotech.com,Enterprise Software,CHN,,Guangdong,Guangdong,,,,,1,14650000,2009-10-20,2009-10-20
+Appiness Inc,operating,/organization/appiness-inc,,Mobile,USA,CA,San Diego,San Diego,2014-09-01,2014,2014-09,2014-Q3,1,200000,2014-09-01,2014-09-01
+Skylight Healthcare Systems,operating,/organization/skylight-healthcare-systems,http://www.skylight.com,Health and Wellness,USA,CA,San Diego,San Diego,1999-01-01,1999,1999-01,1999-Q1,4,15950000,2002-10-25,2013-07-23
+Vertical Performance Partners,acquired,/organization/vertical-performance-partners,http://www.verticalpp.com,Mobile,USA,RI,Providence,Providence,,,,,1,1500000,2011-12-06,2011-12-06
+emids,operating,/organization/emids,http://www.emids.com,Software,USA,TN,Nashville,Nashville,1999-01-01,1999,1999-01,1999-Q1,1,13300000,2013-12-06,2013-12-06
+Differential Dynamics,operating,/organization/differential-dynamics,http://ddmotion.com,,USA,MD,Baltimore,Owings Mills,2005-01-01,2005,2005-01,2005-Q1,2,1177822,2014-05-13,2014-06-12
+AutoVirt,closed,/organization/autovirt,http://www.autovirt.com,Software,USA,NH,"Manchester, New Hampshire",Nashua,2007-01-01,2007,2007-01,2007-Q1,7,24300000,2007-01-01,2011-05-24
+Full Circle CRM,operating,/organization/full-circle-crm,http://fullcirclecrm.com,Software,USA,CA,SF Bay Area,San Mateo,2010-12-31,2010,2010-12,2010-Q4,2,4300000,2012-09-13,2014-11-12
+Grady Health System,operating,/organization/grady-health-system,http://www.gradyhealth.org/,Health and Wellness,USA,GA,Atlanta,Atlanta,1892-01-01,,,,1,50000000,2014-09-29,2014-09-29
+,,,,,,,,,,,,,,,,
+NovaShunt,closed,/organization/novashunt,http://novashunt.ch,Health Care,GBR,,Cheshire,,,,,,1,25000000,2011-03-09,2011-03-09
+AB Microfinance Bank Nigeria,operating,/organization/ab-microfinance-bank-nigeria,http://ab-mfbnigeria.com,Finance,NGA,,Lagos,Lagos,,,,,1,4900000,2014-02-19,2014-02-19
+IMVU,operating,/organization/imvu,http://www.imvu.com,Social Media,USA,CA,SF Bay Area,Mountain View,2004-01-01,2004,2004-01,2004-Q1,4,29000000,2006-02-01,2009-01-22
+Stroz Friedberg,operating,/organization/stroz-friedberg,http://www.strozfriedberg.com,Consulting,USA,NY,New York City,New York,2000-01-01,2000,2000-01,2000-Q1,1,30000000,2007-01-09,2007-01-09
+Bon-Bon Crepes of America,operating,/organization/bon-bon-crepes-of-america,http://cdgonzal.wix.com/bonboncrepes,Hospitality,USA,FL,Miami,Aventura,2014-01-21,2014,2014-01,2014-Q1,1,3500,2014-01-21,2014-01-21
+Liberty Ammunition,operating,/organization/liberty-ammunition,http://libertyammunition.com,Manufacturing,USA,FL,Sarasota - Bradenton,Bradenton,,,,,1,900000,2011-01-01,2011-01-01
+BlogRadio,closed,/organization/blogradio,http://www.podblogr.com,Mobile,USA,CA,San Diego,El Cajon,2009-01-01,2009,2009-01,2009-Q1,1,0,2009-12-01,2009-12-01
+Anita Margarita,operating,/organization/anita-margarita,http://anitamargarita.com,Craft Beer,USA,IL,Chicago,Homewood,2011-05-01,2011,2011-05,2011-Q2,1,20454,2014-02-10,2014-02-10
+Robotronica,,/organization/robotronica,http://robotronicsystems.com,,RUS,,Moscow,Moscow,,,,,1,155000,2013-08-01,2013-08-01
+Mojo Labs Co.,closed,/organization/mojo-labs-co,http://www.mojolabs.ca,Apps,CAN,NS,Halifax,Halifax,2010-04-06,2010,2010-04,2010-Q2,2,34468,2010-08-07,2010-10-14
+Chrono24.com,,/organization/chrono24-com,http://www.chrono24.com,Fashion,DEU,,Frankfurt,Karlsruhe,2003-08-01,2003,2003-08,2003-Q3,2,0,2010-02-25,2014-04-01
+Polyplus-transfection,operating,/organization/polyplus-transfection,http://www.polyplus-transfection.com,Biotechnology,FRA,,Illkirch-graffenstaden,Illkirch-graffenstaden,,,,,1,3237000,2011-01-11,2011-01-11
+wpXtreme,operating,/organization/wpxtreme,http://wpxtre.me,Cloud Computing,USA,MA,Boston,Boston,2012-08-01,2012,2012-08,2012-Q3,2,132000,2012-08-10,2013-11-10
+emotion.me,operating,/organization/emotion-me,http://emotion.me,Subscription Businesses,BRA,,Rio de Janeiro,Rio De Janeiro,2012-07-01,2012,2012-07,2012-Q3,3,975000,2012-05-01,2014-02-26
+MONOQI,operating,/organization/monoqi,http://monoqi.com,Design,DEU,,Berlin,Berlin,2011-01-01,2011,2011-01,2011-Q1,1,0,2012-08-21,2012-08-21
+shopkick,acquired,/organization/shopkick,http://shopkick.com,Social Media,USA,CA,SF Bay Area,Redwood City,2009-06-01,2009,2009-06,2009-Q2,3,20000000,2009-07-14,2010-07-14
+Dreamstreet Golf,operating,/organization/dreamstreet-golf,http://www.dreamstreetgolf.com,Sports,USA,NY,New York City,Monroe,2009-01-01,2009,2009-01,2009-Q1,1,40000,2010-03-19,2010-03-19
+THERAVECTYS,operating,/organization/theravectys,http://www.theravectys.com,Biotechnology,FRA,,Paris,Paris,2005-01-01,2005,2005-01,2005-Q1,2,28322112,2012-09-04,2013-10-16
+Sonendo,operating,/organization/sonendo,http://www.sonendo.com,Biotechnology,USA,CA,Los Angeles,Laguna Hills,2006-06-01,2006,2006-06,2006-Q2,7,79349874,2008-11-26,2014-09-04
+Pager,operating,/organization/pager,http://getpager.com/,Technology,USA,NY,New York City,New York,2014-05-01,2014,2014-05,2014-Q2,1,4500000,2014-05-01,2014-05-01
+Votizen,acquired,/organization/votizen,http://www.votizen.com,Law Enforcement,USA,CA,SF Bay Area,Mountain View,2009-03-19,2009,2009-03,2009-Q1,2,2250000,2010-09-23,2012-02-24
+Good Times Restaurants,operating,/organization/good-times-restaurants,http://goodtimesburgers.com,Hospitality,USA,CO,Denver,Golden,1992-01-01,1992,1992-01,1992-Q1,1,5500000,2013-08-21,2013-08-21
+FEMA Guides,operating,/organization/fema-guides,http://femaguides.com,Education,USA,NY,NY - Other,South Richmond Hill,2013-01-15,2013,2013-01,2013-Q1,1,0,2014-03-02,2014-03-02
+Buku Sisa KIta Social Campaign,operating,/organization/buku-sisa-kita-social-campaign,http://bukusisakita.com/,,IDN,,Surabaya,Surabaya,,,,,1,1000,2013-12-09,2013-12-09
+KnowRe,operating,/organization/knowre,http://www.knowre.com,Education,USA,NY,New York City,New York,2012-01-01,2012,2012-01,2012-Q1,3,8600000,2012-03-01,2014-10-22
+CipherMax,closed,/organization/ciphermax,http://www.CipherMaxInc.com,Security,USA,CA,SF Bay Area,San Jose,2000-01-01,2000,2000-01,2000-Q1,8,141535713,2001-05-08,2007-02-25
+,,,,,,,,,,,,,,,,
+Seekly,operating,/organization/seekly,http://seek.ly,Curated Web,,,,,2011-08-01,2011,2011-08,2011-Q3,1,19000,2012-01-01,2012-01-01
+SemiNex,operating,/organization/seminex,http://www.seminex.com,Semiconductors,USA,MA,Boston,Peabody,2003-04-01,2003,2003-04,2003-Q2,2,839766,2009-08-05,2011-08-11
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+VisConPro,operating,/organization/visconpro,http://www.fotoLibra.com,E-Commerce,GBR,,GBR - Other,Harlech,2002-04-18,2002,2002-04,2002-Q2,1,480741,2004-12-09,2004-12-09
+Snocap,acquired,/organization/snocap,http://snocap.com,Games,USA,CA,SF Bay Area,San Francisco,,,,,3,25000000,2002-01-01,2006-03-01
+Igloo Vision,operating,/organization/igloo-vision,http://www.igloovision.com,Games,GBR,,Shropshire,,,,,,1,410423,2011-06-16,2011-06-16
+MobileDataforce,operating,/organization/mobiledataforce,http://www.mobiledataforce.com,Enterprise Software,USA,ID,ID - Other,Meridian,2000-01-01,2000,2000-01,2000-Q1,1,1000000,2006-05-18,2006-05-18
+Shut Down,operating,/organization/shut-down,http://ShutDownApparel.com,E-Commerce,USA,CO,Denver,Littleton,2013-04-11,2013,2013-04,2013-Q2,1,0,2013-10-12,2013-10-12
+Innara Health,operating,/organization/innara-health,http://www.innarahealth.com/,,USA,KS,Kansas City,Olathe,,,,,1,170000,2013-01-30,2013-01-30
+Oasmia Pharmaceutical,,/organization/oasmia-pharmaceutical,http://www.oasmia.com,Biotechnology,SWE,,Stockholm,Uppsala,,,,,1,10198952,2010-07-22,2010-07-22
+SeniorLiving.Net,acquired,/organization/seniorliving-net,http://www.seniorliving.net,,,,,,,,,,1,0,2010-11-01,2010-11-01
+MemberPlanet,operating,/organization/memberplanet,http://memberplanet.com,Software,USA,CA,Los Angeles,Torrance,2011-01-01,2011,2011-01,2011-Q1,1,2500000,2013-09-26,2013-09-26
+5to1,acquired,/organization/5to1,http://www.5to1.com,Internet Marketing,USA,WA,Seattle,Seattle,2009-01-01,2009,2009-01,2009-Q1,4,17129760,2009-06-17,2010-11-10
+,,,,,,,,,,,,,,,,
+Meal Ticket,operating,/organization/meal-ticket,http://getmealticket.com,Restaurants,USA,ID,Boise,Boise,2009-11-01,2009,2009-11,2009-Q4,8,1728000,2011-08-01,2013-12-01
+inkSIG Digital,operating,/organization/inksig-digital,http://www.chicago.inksig.com/,E-Commerce,USA,MN,Minneapolis,Minneapolis,1993-01-01,1993,1993-01,1993-Q1,2,390000,2012-01-01,2013-08-18
+Asymchem Laboratories (Tianjin),operating,/organization/asymchem-laboratories-tianjin,http://www.asymchem.com,Medical,USA,NC,Raleigh,Morrisville,1998-01-01,1998,1998-01,1998-Q1,1,0,2011-08-01,2011-08-01
+X2 Biosystems,operating,/organization/x2-biosystems,http://x2biosystems.com,Health Care,USA,WA,Seattle,Seattle,2010-01-01,2010,2010-01,2010-Q1,7,18023021,2011-05-17,2014-11-26
+ironSource,operating,/organization/ironsource,http://www.ironsrc.com,Software,ISR,,Tel Aviv,Tel Aviv,2010-01-01,2010,2010-01,2010-Q1,1,85000000,2014-08-11,2014-08-11
+Manicube,operating,/organization/manicube,http://manicube.com,Consulting,USA,NY,New York City,New York,2012-01-01,2012,2012-01,2012-Q1,1,5000000,2014-04-14,2014-04-14
+VMG Media,operating,/organization/vmg-media,http://vmgmedia.vn,Games,VNM,,Hanoi,Hanoi,2006-01-01,2006,2006-01,2006-Q1,1,0,2010-04-04,2010-04-04
+ANDalyze,operating,/organization/andalyze,http://andalyze.com,Water Purification,USA,IL,"Springfield, Illinois",Champaign,2005-01-01,2005,2005-01,2005-Q1,3,2277608,2012-01-31,2013-06-27
+Rollad,,/organization/rollad,http://rollad.ru/,,RUS,,Moscow,Moscow,,,,,1,800000,2012-05-01,2012-05-01
+PresenceLearning,operating,/organization/presencelearning,http://presencelearning.com,Education,USA,CA,SF Bay Area,San Francisco,2009-01-01,2009,2009-01,2009-Q1,1,8000000,2013-04-26,2013-04-26
+SunCoast Renewable Energy,operating,/organization/suncoast-renewable-energy,,Clean Technology,CAN,ON,Windsor,Windsor,2012-01-01,2012,2012-01,2012-Q1,1,25000,2014-08-05,2014-08-05
+HealthSpring,acquired,/organization/healthspring,http://www.healthspring.com,Hospitals,USA,TN,Nashville,Franklin,2000-01-01,2000,2000-01,2000-Q1,1,3700000,2013-06-19,2013-06-19
+Kaufmann Mercantile,operating,/organization/kaufmann-mercantile,http://kaufmann-mercantile.com,E-Commerce,USA,NY,New York City,New York,2009-10-26,2009,2009-10,2009-Q4,2,3200000,2014-01-01,2014-11-20
+BCM Solutions,,/organization/bcm-solutions,http://www.bcm-solutions.co.uk,Mobile,,,,,2009-01-01,2009,2009-01,2009-Q1,1,0,2014-04-29,2014-04-29
+Tu Otro Super,operating,/organization/tu-otro-super,,E-Commerce,,,,,,,,,1,261260,2012-10-22,2012-10-22
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+AGLOGIC,operating,/organization/aglogic,http://www.aglogic.net,Mobile,CHN,,Shenzhen,Shenzhen,1995-02-22,1995,1995-02,1995-Q1,2,2500000,2008-10-10,2010-09-01
+Debteye,closed,/organization/debteye,http://www.debteye.com,Software,USA,IL,Chicago,Chicago,2010-01-01,2010,2010-01,2010-Q1,1,0,2011-08-02,2011-08-02
+Phrixus Pharmaceuticals,operating,/organization/phrixus-pharmaceuticals,http://phrixuspharmaceuticals.com,Biotechnology,USA,MI,Detroit,Ann Arbor,2006-01-01,2006,2006-01,2006-Q1,1,100000,2013-10-09,2013-10-09
+Agrar33,operating,/organization/agrar33,http://www.agrar33.de,E-Commerce,DEU,,DEU - Other,Paderborn,2013-06-01,2013,2013-06,2013-Q2,1,1000000,2013-06-01,2013-06-01
+TransLattice,operating,/organization/translattice,http://www.TransLattice.com,Public Transportation,USA,CA,SF Bay Area,Santa Clara,2007-01-01,2007,2007-01,2007-Q1,2,19026410,2008-08-05,2010-11-01
+,,,,,,,,,,,,,,,,
+Trans Tasman Resources,operating,/organization/trans-tasman-resources,http://www.ttrl.co.nz,Clean Technology,NZL,,Wellington,Wellington,2007-01-01,2007,2007-01,2007-Q1,1,11200000,2013-11-27,2013-11-27
+Shipizy,operating,/organization/shipizy,http://www.shipizy.com,World Domination,PRT,,Lisbon,Lisbon,2012-09-10,2012,2012-09,2012-Q3,1,33350,2013-10-23,2013-10-23
+LinkCloud,closed,/organization/linkcloud,http://www.linkcloud.org,Advertising,DEU,,Frankfurt,Würzburg,2010-05-01,2010,2010-05,2010-Q2,1,133150,2010-05-01,2010-05-01
+Playdemic,acquired,/organization/playdemic,http://www.playdemic.com,Games,GBR,,Cheshire,,2010-01-01,2010,2010-01,2010-Q1,2,4378812,2012-08-20,2013-10-11
+Sword Diagnostics,operating,/organization/sword-diagnostics,http://www.sworddiagnostics.com,Biotechnology,USA,IL,Chicago,Summit Argo,,,,,5,5300802,2005-04-01,2012-12-28
+Blade Games World,closed,/organization/blade-games-world,http://www.jumala.com,Games,USA,WA,Seattle,Bellevue,2004-02-01,2004,2004-02,2004-Q1,2,5926462,2009-04-17,2009-11-20
+Videonetics Technologies,operating,/organization/videonetics-technologies,http://www.videonetics.com/,Video Streaming,IND,,Kolkata,Kolkata,,,,,1,0,2014-06-25,2014-06-25
+Axenic Dental,operating,/organization/axenic-dental,,Health Care,USA,MI,Kalamazoo,Kalamazoo,,,,,3,3694598,2009-09-04,2013-11-01
+Hemophilia Resources of America,operating,/organization/hemophilia-resources-of-america,,,USA,NJ,NJ - Other,Pine Brook,1993-01-01,1993,1993-01,1993-Q1,1,0,1999-12-20,1999-12-20
+TSAT Group,operating,/organization/tsat-group,http://www.tsatgroup.com/,Manufacturing,ARE,,Dubai,Dubai,2013-10-03,2013,2013-10,2013-Q4,1,50000,2013-10-30,2013-10-30
+Get Smart Content,operating,/organization/get-smart-content,http://www.getsmartcontent.com,Optimization,USA,TX,Austin,Austin,2011-11-01,2011,2011-11,2011-Q4,1,2195948,2014-07-11,2014-07-11
+Purple Labs,acquired,/organization/purple-labs,http://www.purplelabs.com,Mobile,CHE,,Dubendorf,Dubendorf,2001-01-01,2001,2001-01,2001-Q1,1,12670000,2007-09-24,2007-09-24
+GetOutfitted,operating,/organization/getoutfitted,http://www.getoutfitted.com,E-Commerce,,,,,2013-04-15,2013,2013-04,2013-Q2,2,273137,2013-10-01,2014-01-16
+Greenplum Software,acquired,/organization/greenplum,http://www.greenplum.com,Big Data,USA,CA,SF Bay Area,San Mateo,2003-06-01,2003,2003-06,2003-Q2,5,92899155,2006-03-01,2009-03-17
+Image Socket,operating,/organization/image-socket,http://www.imagesocket.com,Web Hosting,USA,NY,New York City,New York,,,,,2,18000,2007-09-23,2011-01-15
+Webdyn,operating,/organization/webdyn,http://www.webdyn.com,Hardware + Software,FRA,,Paris,Saint-germain-en-laye,,,,,1,1910000,2010-09-09,2010-09-09
+Drillster,operating,/organization/drillster,http://www.drillster.com,Education,NLD,,Utrecht,Vleuten,2010-05-01,2010,2010-05,2010-Q2,1,428550,2011-09-01,2011-09-01
+Mena Cleantech,operating,/organization/mena-cleantech,,,,,,,,,,,1,0,2010-07-06,2010-07-06
+hyaqu,closed,/organization/hyaqu,http://www.hyaqu.com,E-Commerce,USA,OR,"Portland, Oregon",Lake Oswego,2011-07-25,2011,2011-07,2011-Q3,1,500000,2011-06-25,2011-06-25
+Newlight Technologies,operating,/organization/newlight-technologies,http://newlight.com,Clean Technology,USA,CA,Anaheim,Irvine,2003-01-01,2003,2003-01,2003-Q1,1,9200000,2014-04-02,2014-04-02
+Sensegon,operating,/organization/sensegon,http://www.sensegon.com,Sales and Marketing,ISR,,Tel Aviv,Ra'anana,2010-01-20,2010,2010-01,2010-Q1,5,3350000,2010-02-01,2013-12-01
+,,,,,,,,,,,,,,,,
+WayConnected,closed,/organization/wayconnected,http://wayconnected.com,Curated Web,USA,CO,Denver,Golden,2010-02-01,2010,2010-02,2010-Q1,1,0,2010-01-01,2010-01-01
+SpumeNews,operating,/organization/spumenews,http://spumenews.com,,,,,,,,,,1,22091,2014-04-01,2014-04-01
+Frengo,operating,/organization/frengo,http://www.frengo.com,Social Media,USA,CA,SF Bay Area,San Mateo,,,,,2,8000000,2006-12-01,2007-05-03
+,,,,,,,,,,,,,,,,
+NinthDecimal,operating,/organization/ninthdecimal,http://www.ninthdecimal.com/,Direct Marketing,USA,CA,SF Bay Area,San Francisco,2003-03-20,2003,2003-03,2003-Q1,6,49256256,2006-05-17,2014-10-15
+Solexa,operating,/organization/solexa,,Biotechnology,USA,CA,SF Bay Area,Hayward,,,,,3,172500000,2005-04-22,2006-09-20
+Giftango,acquired,/organization/giftango,http://www.giftango.com,Mobile,USA,OR,"Portland, Oregon",Portland,2005-06-25,2005,2005-06,2005-Q2,2,6400000,2009-10-01,2010-10-07
+Xcell Medical,operating,/organization/xcell-medical,,,USA,FL,Ft. Lauderdale,Pompano Beach,2014-06-25,2014,2014-06,2014-Q2,1,165500,2014-06-09,2014-06-09
+Bango,operating,/organization/bango,http://www.bango.com,Mobile,GBR,,London,Cambridge,1999-10-01,1999,1999-10,1999-Q4,1,10200000,2013-02-08,2013-02-08
+Zipongo,operating,/organization/zipongo,http://www.zipongo.com,Health Care,USA,CA,SF Bay Area,San Francisco,2010-03-12,2010,2010-03,2010-Q1,3,3528000,2012-07-25,2012-10-01
+Spotzer,operating,/organization/spotzer-2,http://www.getspotzer.com,,,,,,,,,,1,0,2014-01-01,2014-01-01
+Global Silicon,operating,/organization/global-silicon,,Semiconductors,GBR,,London,Marlow,1997-01-01,1997,1997-01,1997-Q1,1,10000000,2005-09-08,2005-09-08
+Navarik,operating,/organization/navarik,,Software,CAN,BC,Vancouver,Vancouver,,,,,1,1000000,2008-04-30,2008-04-30
+Shoptimise,operating,/organization/shoptimise,http://www.shoptimise.fr,Curated Web,FRA,,Paris,Paris,2012-11-01,2012,2012-11,2012-Q4,2,5812206,2013-02-28,2014-03-31
+Ruckus,acquired,/organization/ruckus,http://www.ruckusnetwork.com,Games,,,,,,,,,5,52200000,2004-06-01,2009-09-15
+,,,,,,,,,,,,,,,,
+Adeze,operating,/organization/adeze,http://www.adeze.com,Advertising,USA,CA,SF Bay Area,San Francisco,2005-01-01,2005,2005-01,2005-Q1,2,5500000,2006-06-21,2008-04-10
+Applicasa,operating,/organization/applicasa,http://www.applicasa.com,Mobile,ISR,,Netanya,Netanya,2011-07-01,2011,2011-07,2011-Q3,2,1000000,2011-07-01,2013-01-01
+Cardback,operating,/organization/cardback,http://cardback.in,Mobile,IND,,New Delhi,New Delhi,2012-08-01,2012,2012-08,2012-Q3,1,170000,2014-06-27,2014-06-27
+Spikes Cavell & Co,operating,/organization/spikes-cavell-co,http://www.spikescavell.net,Analytics,GBR,,Newbury,Newbury,1991-01-01,1991,1991-01,1991-Q1,3,7966840,2007-07-06,2009-11-17
+SCS Group,operating,/organization/scs-group,http://www.groupscs.co.uk,Manufacturing,GBR,,London,London,1992-01-01,1992,1992-01,1992-Q1,1,159444,2012-03-01,2012-03-01
+Londons Holiday Apartments,operating,/organization/londons-holiday-apartments,http://www.londonsholidayapartments.com,Real Estate,GBR,,London,London,2011-08-01,2011,2011-08,2011-Q3,1,163890,2011-08-01,2011-08-01
+Empire Genomics,operating,/organization/empire-genomics,http://www.empiregenomics.com/,Biotechnology,USA,NY,Buffalo,Buffalo,2006-01-01,2006,2006-01,2006-Q1,1,1000000,2014-07-02,2014-07-02
+KODA,closed,/organization/koda,http://koda.us,Curated Web,USA,CA,SF Bay Area,San Francisco,2008-01-01,2008,2008-01,2008-Q1,2,4500000,2009-08-01,2010-02-24
+Stackops,operating,/organization/stackops,http://www.stackops.com,Infrastructure,ESP,,Madrid,Madrid,2011-03-01,2011,2011-03,2011-Q1,1,457104,2011-10-28,2011-10-28
