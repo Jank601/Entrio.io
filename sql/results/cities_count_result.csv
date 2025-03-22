@@ -1,17 +1,17 @@
 city,count
-San Francisco,39
-New York,30
+San Francisco,42
+New York,29
 London,12
 Seattle,7
 San Diego,7
 Boston,6
-Austin,6
-Atlanta,6
 San Mateo,5
+Nashville,5
 Mountain View,5
 Madrid,5
 Chicago,5
-Nashville,4
+Austin,5
+Atlanta,5
 Moscow,4
 Cambridge,4
 Berlin,4
@@ -66,6 +66,7 @@ Zaandijk,1
 Würzburg,1
 Wuhu,1
 Windsor,1
+Wilmslow,1
 Willowbrook,1
 Wheat Ridge,1
 Wellington,1
@@ -76,7 +77,6 @@ Vancouver,1
 Valencia,1
 Vacaville,1
 Uppsala,1
-Unknown,1
 Tucson,1
 Tualatin,1
 Thunder Bay,1
@@ -176,7 +176,6 @@ Lake Oswego,1
 Laguna Hills,1
 Lagos,1
 Kolkata,1
-Knutsford,1
 Knoxville,1
 Kingston,1
 Karlsruhe,1

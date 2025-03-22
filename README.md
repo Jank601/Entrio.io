@@ -45,7 +45,7 @@ The solution processes company data from Crunchbase, cleans and enriches it usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/entrio-genai-assignment.git
+   git clone https://github.com/Jank601/Entrio.io.git
    cd entrio-genai-assignment
    ```
 
