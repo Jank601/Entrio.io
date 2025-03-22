@@ -1,6 +1,5 @@
 import pandas as pd
 import logging
-import time
 from openai import OpenAI
 
 # Set up logging
@@ -100,45 +99,32 @@ No explanation or additional text.
 """
     return prompt
 
-def call_openai_api(client, prompt, model="gpt-4o-mini", max_retries=3):
-    """Call the OpenAI API with a prompt and handle rate limiting.
+def call_openai_api(client, prompt, model="gpt-4o-mini"):
+    """Call the OpenAI API with a prompt.
     
     Args:
         client (OpenAI): OpenAI client.
         prompt (str): String prompt to send to API.
         model (str): String model name to use.
-        max_retries (int): Maximum number of retry attempts for rate limiting.
         
     Returns:
-        str or None: API response if successful, None if all retries fail.
+        str or None: API response if successful, None if fails.
     """
-    retries = 0
-    while retries <= max_retries:
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "system", "content": "You are a helpful business research assistant."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.2,  
-                max_tokens=30  
-            )
-            return response.choices[0].message.content.strip()
-        except Exception as e:
-            logger.error(f"Error calling OpenAI API: {e}")
-            
-            if "rate limit" in str(e).lower() and retries < max_retries:
-                wait_time = 20 * (2 ** retries)  # Exponential backoff
-                logger.warning(f"Rate limited. Retry {retries+1}/{max_retries}. Backing off for {wait_time} seconds.")
-                time.sleep(wait_time)
-                retries += 1
-                continue
-            else:
-                return None
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": "You are a helpful business research assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.2,  
+            max_tokens=30  # Adequate for city names, status, etc.
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        logger.error(f"Error calling OpenAI API: {e}")
+        return None
     
-    logger.error(f"Failed to call OpenAI API after {max_retries} retries")
-    return None
 
 def fill_missing_values(df, client):
     """Fill missing values in status, homepage_url, and city columns.
@@ -206,9 +192,6 @@ def fill_missing_values(df, client):
                     df_filled.at[idx, column] = response
                 
                 logger.info(f"  - Added {column} for {row_dict.get('company_name', 'Unknown')}: {response}")
-            
-            # Add minimal delay to avoid rate limiting
-            time.sleep(1)
     
     return df_filled
 
