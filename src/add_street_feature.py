@@ -1,6 +1,5 @@
 import pandas as pd
 import logging
-import time
 from openai import OpenAI
 
 # Set up logging
@@ -49,46 +48,31 @@ No explanation or additional text.
 """
     return prompt
 
-def call_openai_api(client, prompt, model="gpt-4o-mini", max_retries=3):
-    """
-    Call the OpenAI API with a prompt and handle rate limiting.
+def call_openai_api(client, prompt, model="gpt-4o-mini"):
+    """Call the OpenAI API with a prompt.
     
     Args:
-        client: OpenAI client
-        prompt: String prompt to send to API
-        model: String model name to use
-        max_retries: Maximum number of retry attempts for rate limiting
+        client (OpenAI): OpenAI client.
+        prompt (str): String prompt to send to API.
+        model (str): String model name to use.
         
     Returns:
-        String: API response or None if all retries fail
+        str or None: API response if successful, None if fails.
     """
-    retries = 0
-    while retries <= max_retries:
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "system", "content": "You are a helpful business location research assistant."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.2,  
-                max_tokens=50  # Keep 50 tokens for street addresses
-            )
-            return response.choices[0].message.content.strip()
-        except Exception as e:
-            logger.error(f"Error calling OpenAI API: {e}")
-            
-            if "rate limit" in str(e).lower() and retries < max_retries:
-                wait_time = 20 * (2 ** retries)  # Exponential backoff
-                logger.warning(f"Rate limited. Retry {retries+1}/{max_retries}. Backing off for {wait_time} seconds.")
-                time.sleep(wait_time)
-                retries += 1
-                continue
-            else:
-                return None
-    
-    logger.error(f"Failed to call OpenAI API after {max_retries} retries")
-    return None
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": "You are a helpful business location research assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.2,  
+            max_tokens=50  # Keep 50 tokens for street addresses
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        logger.error(f"Error calling OpenAI API: {e}")
+        return None
 
 def add_street_feature(df, client):
     """
@@ -126,9 +110,6 @@ def add_street_feature(df, client):
         else:
             # If API fails, use a placeholder value
             df_with_street.at[idx, 'street'] = ""
-        
-        # Add minimal delay to avoid rate limiting
-        time.sleep(1)
     
     logger.info("Street feature added successfully.")
     return df_with_street
