@@ -29,6 +29,8 @@ The solution processes company data from Crunchbase, cleans and enriches it usin
 │   ├── missing_values_handler.py  # Module to fill missing values with AI
 │   ├── add_street_feature.py  # Module to add street addresses with AI
 │   └── main.py                # Main execution script
+├── url_validation/            # URL validation functionality
+│   └── url_validator.py       # Script to validate URLs are active using OpenAI
 ├── visualization/
 │   └── visualization.py       # City distribution visualization script
 ├── .env                       # Environment variables (API keys)
@@ -43,11 +45,7 @@ The solution processes company data from Crunchbase, cleans and enriches it usin
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jank601/Entrio.io.git
-   cd entrio-genai-assignment
-   ```
+1. Clone the repository (if applicable)
 
 2. Create and activate a virtual environment:
    ```bash
@@ -80,6 +78,18 @@ This performs:
 2. Missing value handling with AI (Task 2)
 3. Street feature addition with AI (Task 3)
 
+### Post-Processing: URL Validation
+
+After completing the main pipeline, run this additional URL validation step:
+
+```bash
+python url_validation/url_validator.py
+```
+
+This script uses OpenAI's API to check if each company's homepage URL is valid and active, adding a new `valid_url` column to the dataset with "Yes" or "No" values. The validation runs in parallel threads for efficiency while respecting API rate limits.
+
+**Note**: This validation step is separated from the main pipeline to avoid re-running the token-consuming AI steps (Tasks 2 and 3) that have already been completed.
+
 ### Running SQL Analysis
 
 After the pipeline has processed the data:
@@ -103,11 +113,16 @@ python visualization/visualization.py
 ### Task 1: Cleaning the Dataset
 The data cleaning module:
 - Identifies and removes completely empty rows
-- Validates and standardizes company names
-- Fixes URL formatting issues
+- Detects corrupt rows with inconsistencies between founding dates and years
+- Validates funding amounts (removing negative values)
 - Standardizes date formats and company status values
-- Ensures country and state codes are in uppercase
-- Validates numeric columns by converting to proper numeric types and handling invalid values
+
+### Additional URL Validation Step
+A separate post-processing step to enhance data quality:
+- Uses OpenAI's API to determine if each homepage URL is valid and active
+- Adds a new `valid_url` column to the dataset with "Yes" or "No" values
+- Processes URLs in parallel with proper rate limit handling
+- Implemented as a separate step to avoid re-running token-consuming AI operations
 
 ### Task 2: Handling Missing Values
 Uses OpenAI's GPT-4o-mini to intelligently fill missing values for:
@@ -129,10 +144,10 @@ Performs four analytical queries:
 4. Calculates funding totals grouped by founding year
 
 ### Task 5: Visualization (Bonus)
-Creates a comprehensive dashboard visualizing company distribution by city, including:
-- Top 15 cities by company count
-- Top cities within the top 5 countries
-- Detailed statistics table for the top 15 cities
+Creates a bar chart showing the distribution of companies by headquarters city, including:
+- Company counts for each city
+- Statistical summary of the dataset
+- Professional formatting and styling
 
 ## Implementation Details
 
@@ -146,21 +161,14 @@ The project leverages OpenAI's GPT-4o-mini model to:
 - **Robust Error Handling**: Comprehensive exception management throughout the pipeline
 - **Logging**: Detailed operation logs for monitoring and debugging
 - **Data Validation**: Multiple validation steps ensure data quality
-- **Modular Design**: Each component is designed to be independent and reusable
 
 ### SQL Implementation
 - Uses PandasSQL to execute SQL queries directly on DataFrame objects
 - Query results are saved as CSV files for easy review and sharing
 
-### Visualization Implementation
-- Uses Matplotlib and Seaborn to create a professional dashboard
-- Implements a GridSpec layout for organized visual components
-- Includes color coding and formatting for enhanced readability
-
 ## Performance Considerations
-- Optimized API calls with focused prompts to minimize token usage
-- Error handling with informative logging for easy troubleshooting
-- Flexible file path handling to accommodate different project structures
+- Batch processing is implemented where appropriate
+- The pipeline is designed to be resilient against common errors
 
 ## Author
 Eli Yagel
